@@ -4034,3 +4034,6 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 04:13:16.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was killed
 [24Dec2024 04:13:16.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 158 entities
 [24Dec2024 04:13:16.235] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 04:17:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Greed may lead to loss]
+[24Dec2024 04:23:25.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7175, l='ServerLevel[world]', x=24.39, y=64.00, z=37.70] died, message: 'Villager was slain by Door Knight'
+[24Dec2024 04:25:09.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7177, l='ServerLevel[world]', x=23.50, y=64.00, z=28.50] died, message: 'Villager was slain by Door Knight'
