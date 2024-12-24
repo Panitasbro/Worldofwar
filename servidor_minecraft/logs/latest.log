@@ -4245,3 +4245,29 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 02:53:31.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Far From Perfect]
 [24Dec2024 02:57:23.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [24Dec2024 02:57:43.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
+[24Dec2024 02:58:11.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Dec2024 02:59:17.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[24Dec2024 02:59:40.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7825ms or 156 ticks behind
+[24Dec2024 03:00:00.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
+[24Dec2024 03:00:19.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4406ms or 88 ticks behind
+[24Dec2024 03:00:38.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[24Dec2024 03:00:56.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[24Dec2024 03:01:16.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4954ms or 99 ticks behind
+[24Dec2024 03:01:42.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Dec2024 03:01:50.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Safe Haven]
+[24Dec2024 03:02:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Call For Adventure]
+[24Dec2024 03:02:03.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6236ms or 124 ticks behind
+[24Dec2024 03:02:29.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[24Dec2024 03:02:54.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10305ms or 206 ticks behind
+[24Dec2024 03:03:15.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6114ms or 122 ticks behind
+[24Dec2024 03:03:35.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5219ms or 104 ticks behind
+[24Dec2024 03:04:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 was slain by Zombie Bruiser
+[24Dec2024 03:04:19.919] [Server thread/INFO] [tombstone/]: The player DAIRA_3 has successfully been saved
+[24Dec2024 03:04:38.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by Skeleton Creeper
+[24Dec2024 03:04:38.087] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[24Dec2024 03:05:29.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Mine? Mine? Mine?]
+[24Dec2024 03:06:04.665] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[24Dec2024 03:06:04.666] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[24Dec2024 03:07:12.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/40169, l='ServerLevel[world]', x=139.77, y=84.85, z=521.11] died: Honeyed Archer was slain by Dread Hound
+[24Dec2024 03:07:15.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 was slain by Spriggan
+[24Dec2024 03:07:15.470] [Server thread/INFO] [tombstone/]: The player DAIRA_3 has successfully been saved
