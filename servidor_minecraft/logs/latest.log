@@ -4216,3 +4216,32 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 02:47:16.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6210ms or 124 ticks behind
 [24Dec2024 02:47:35.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4571ms or 91 ticks behind
 [24Dec2024 02:47:44.610] [Worker-Main-9/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[24Dec2024 02:47:50.965] [Worker-Main-9/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[24Dec2024 02:47:51.047] [Worker-Main-9/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[24Dec2024 02:48:02.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11872ms or 237 ticks behind
+[24Dec2024 02:48:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Diamonds!]
+[24Dec2024 02:48:21.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[24Dec2024 02:48:41.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[24Dec2024 02:49:00.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
+[24Dec2024 02:49:18.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[24Dec2024 02:49:49.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[24Dec2024 02:51:30.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[24Dec2024 02:51:30.822] [Worker-Main-9/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[24Dec2024 02:51:49.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[24Dec2024 02:52:07.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3046ms or 60 ticks behind
+[24Dec2024 02:52:39.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Timed out
+[24Dec2024 02:52:39.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[24Dec2024 02:53:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has reached the goal [Opposites Attract]
+[24Dec2024 02:53:02.129] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49f123c4[id=<null>,name=Darkgospel,properties={},legacy=false] (/127.58.16.227:59541) lost connection: Disconnected
+[24Dec2024 02:53:12.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:36061] logged in with entity id 34946 at (12.158546347899966, 85.0, 316.0457879545384)
+[24Dec2024 02:53:12.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[24Dec2024 02:53:12.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[24Dec2024 02:53:12.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[24Dec2024 02:53:12.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[24Dec2024 02:53:12.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[24Dec2024 02:53:12.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[24Dec2024 02:53:12.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[24Dec2024 02:53:12.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[24Dec2024 02:53:31.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Far From Perfect]
+[24Dec2024 02:57:23.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[24Dec2024 02:57:43.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
