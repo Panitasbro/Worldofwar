@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "armageddon_mod:the_iron_keeper": {
+    "criteria": {
+      "the_iron_keeper_0": "2024-12-24 00:54:12 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 01:05:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -466,12 +478,6 @@
       "opened_barrel": "2024-12-24 00:50:15 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-24 00:52:23 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
@@ -1148,6 +1154,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_iron_colossus_treasure_bag_advancment": {
+    "criteria": {
+      "the_iron_colossus_treasure_bag_advancment_0": "2024-12-24 00:54:13 +0000"
     },
     "done": true
   },
@@ -1859,6 +1871,12 @@
     },
     "done": true
   },
+  "armageddon_mod:iron_colossus_relic_advancement": {
+    "criteria": {
+      "iron_colossus_relic_advancement_0": "2024-12-24 00:54:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_door": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -1947,6 +1965,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2024-12-24 01:05:09 +0000"
     },
     "done": true
   },
@@ -2124,6 +2148,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-24 01:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2024-12-24 00:52:02 +0000"
@@ -2211,6 +2241,12 @@
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:iron_remote_advancement": {
+    "criteria": {
+      "iron_remote_advancement_0": "2024-12-24 00:53:39 +0000"
     },
     "done": true
   },

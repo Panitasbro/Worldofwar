@@ -20039,3 +20039,241 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 00:55:13.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5189ms or 103 ticks behind
 [24Dec2024 00:55:20.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [24Dec2024 00:55:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Mine? Mine? Mine?]
+[24Dec2024 00:56:46.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[24Dec2024 00:57:32.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[24Dec2024 00:57:32.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[24Dec2024 00:57:50.569] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[24Dec2024 00:57:50.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 00:57:50.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 00:59:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Diamonds!]
+[24Dec2024 01:02:50.416] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[24Dec2024 01:02:50.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:02:50.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:03:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [How'd You Get This?]
+[24Dec2024 01:04:21.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Stay dead]
+[24Dec2024 01:04:36.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[24Dec2024 01:05:09.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 was slain by The Hunter
+[24Dec2024 01:05:09.868] [Server thread/DEBUG] [tombstone/]: A new grave of the player DAIRA_3 was created at position [x:-27, y:85, z:309, dim:minecraft:overworld]
+[24Dec2024 01:05:09.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Your First Grave]
+[24Dec2024 01:05:09.878] [Server thread/INFO] [tombstone/]: The player DAIRA_3 has successfully been saved
+[24Dec2024 01:05:34.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Source of Evil]
+[24Dec2024 01:07:15.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage
+[24Dec2024 01:07:15.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[24Dec2024 01:07:15.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[24Dec2024 01:07:15.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7b
+[24Dec2024 01:07:15.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[24Dec2024 01:07:15.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[24Dec2024 01:07:15.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[24Dec2024 01:07:18.540] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[24Dec2024 01:07:18.566] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[24Dec2024 01:07:18.591] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[24Dec2024 01:07:27.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Werecat
+[24Dec2024 01:07:27.304] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-80, y:102, z:515, dim:minecraft:overworld]
+[24Dec2024 01:07:27.339] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 01:07:29.034] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[24Dec2024 01:07:50.376] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[24Dec2024 01:07:50.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:07:50.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:07:58.760] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[24Dec2024 01:09:14.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[24Dec2024 01:09:30.091] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[24Dec2024 01:09:30.364] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[24Dec2024 01:09:30.367] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[24Dec2024 01:09:30.370] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[24Dec2024 01:09:30.371] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[24Dec2024 01:09:30.373] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[24Dec2024 01:09:30.374] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[24Dec2024 01:09:30.375] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[24Dec2024 01:09:30.377] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[24Dec2024 01:09:30.378] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[24Dec2024 01:09:30.380] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[24Dec2024 01:09:30.382] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[24Dec2024 01:09:30.383] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[24Dec2024 01:09:30.385] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[24Dec2024 01:09:30.386] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[24Dec2024 01:09:30.387] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[24Dec2024 01:09:30.396] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[24Dec2024 01:09:30.397] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[24Dec2024 01:09:30.402] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[24Dec2024 01:09:30.402] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[24Dec2024 01:09:30.403] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[24Dec2024 01:09:30.404] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[24Dec2024 01:09:30.405] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[24Dec2024 01:09:30.406] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[24Dec2024 01:09:30.406] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[24Dec2024 01:09:30.407] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[24Dec2024 01:09:30.408] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[24Dec2024 01:09:30.410] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[24Dec2024 01:09:30.410] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[24Dec2024 01:09:30.421] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[24Dec2024 01:09:30.421] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[24Dec2024 01:09:30.423] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[24Dec2024 01:09:30.424] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[24Dec2024 01:09:30.427] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[24Dec2024 01:09:30.427] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[24Dec2024 01:09:30.527] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[24Dec2024 01:09:30.529] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[24Dec2024 01:09:30.531] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[24Dec2024 01:09:30.532] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[24Dec2024 01:09:30.535] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[24Dec2024 01:09:30.535] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[24Dec2024 01:09:30.536] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[24Dec2024 01:09:30.538] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[24Dec2024 01:09:30.541] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[24Dec2024 01:09:30.546] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[24Dec2024 01:09:30.547] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[24Dec2024 01:09:30.548] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[24Dec2024 01:09:30.548] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[24Dec2024 01:09:30.549] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[24Dec2024 01:09:30.549] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[24Dec2024 01:09:30.550] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[24Dec2024 01:09:30.550] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[24Dec2024 01:09:30.551] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[24Dec2024 01:09:30.552] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[24Dec2024 01:09:30.552] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[24Dec2024 01:09:30.553] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[24Dec2024 01:09:30.555] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[24Dec2024 01:09:30.561] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[24Dec2024 01:09:30.561] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[24Dec2024 01:09:30.562] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[24Dec2024 01:09:30.562] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[24Dec2024 01:09:30.564] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[24Dec2024 01:09:30.565] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[24Dec2024 01:09:30.572] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[24Dec2024 01:09:30.576] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[24Dec2024 01:09:30.580] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[24Dec2024 01:09:30.580] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[24Dec2024 01:09:30.581] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[24Dec2024 01:09:30.581] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[24Dec2024 01:09:30.584] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[24Dec2024 01:09:30.585] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[24Dec2024 01:09:30.585] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[24Dec2024 01:09:30.586] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[24Dec2024 01:09:30.587] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[24Dec2024 01:09:30.592] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[24Dec2024 01:09:30.596] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[24Dec2024 01:09:30.597] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[24Dec2024 01:09:30.600] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[24Dec2024 01:09:30.601] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[24Dec2024 01:09:30.603] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[24Dec2024 01:09:30.604] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[24Dec2024 01:09:30.605] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[24Dec2024 01:09:30.606] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[24Dec2024 01:09:30.607] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[24Dec2024 01:09:30.608] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[24Dec2024 01:09:30.609] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[24Dec2024 01:09:30.612] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[24Dec2024 01:09:30.615] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[24Dec2024 01:09:30.624] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[24Dec2024 01:09:30.628] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[24Dec2024 01:09:30.630] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[24Dec2024 01:09:30.630] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[24Dec2024 01:09:30.634] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[24Dec2024 01:09:30.636] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[24Dec2024 01:09:30.638] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[24Dec2024 01:09:30.644] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[24Dec2024 01:09:30.646] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[24Dec2024 01:09:30.648] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[24Dec2024 01:09:30.650] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[24Dec2024 01:09:30.651] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[24Dec2024 01:09:30.651] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[24Dec2024 01:09:30.660] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[24Dec2024 01:09:30.663] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[24Dec2024 01:09:30.664] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[24Dec2024 01:09:30.665] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[24Dec2024 01:09:30.667] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[24Dec2024 01:09:30.668] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[24Dec2024 01:09:30.672] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[24Dec2024 01:09:30.673] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[24Dec2024 01:09:30.675] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[24Dec2024 01:09:30.679] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[24Dec2024 01:09:30.680] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[24Dec2024 01:09:30.681] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[24Dec2024 01:09:30.692] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[24Dec2024 01:09:34.922] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[24Dec2024 01:09:35.351] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[24Dec2024 01:09:37.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [I'm not sugar coating it]
+[24Dec2024 01:09:47.913] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[24Dec2024 01:09:48.604] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[24Dec2024 01:09:49.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was squashed by a falling anvil
+[24Dec2024 01:09:49.721] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-178, y:90, z:417, dim:minecraft:overworld]
+[24Dec2024 01:09:49.723] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 01:09:51.030] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[24Dec2024 01:09:52.376] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[24Dec2024 01:09:52.549] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[24Dec2024 01:09:52.553] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[24Dec2024 01:09:59.493] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_4 is being run through DFU (hash b659f3c9823f98408b37a1c703f780d12cd034dd71c3c7eff72bed23d356958e), this will cause launch time delays
+[24Dec2024 01:09:59.728] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_1 is being run through DFU (hash fe672689b21f69589b4a1ae8f54a24854930d47730a3e262edaf1fb03c91221e), this will cause launch time delays
+[24Dec2024 01:10:00.451] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_1 is being run through DFU (hash ab9d22b46309dd0f3b6ff50525a972668f7e1252d75c23c4c87f0e674083fadf), this will cause launch time delays
+[24Dec2024 01:10:00.564] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_0 is being run through DFU (hash f4fd272fc03cccba32d37cd75322fc6181341d971dd898fef76b9f654ffb339e), this will cause launch time delays
+[24Dec2024 01:10:00.651] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_1 is being run through DFU (hash bf1fe6d05f4bdf12b33740f4faf9d25c701fe0a54a385776ecc0401c15fa8956), this will cause launch time delays
+[24Dec2024 01:10:00.712] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_2 is being run through DFU (hash fef74d5a67f077b093772e564c05a16e782b5be427b6ff15de14e17ef33dfa47), this will cause launch time delays
+[24Dec2024 01:10:00.797] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[24Dec2024 01:10:00.810] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_5 is being run through DFU (hash f51dae16c51027e54c0d05189ad7f4ab570be0998ca7373227854d05ab73788c), this will cause launch time delays
+[24Dec2024 01:10:00.872] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_0 is being run through DFU (hash b96961558dd2b2c5b3897933d59d4b2b818d81c46ea1bca6855970c9e4c9e5f1), this will cause launch time delays
+[24Dec2024 01:10:00.894] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_1 is being run through DFU (hash 1743dc95d02dad52d37e440c2939326a0b355e55b3fd8b4ec8abc5d00123ad10), this will cause launch time delays
+[24Dec2024 01:10:00.999] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_spawner_2 is being run through DFU (hash 9d4e9f0575fb3ef5947214d3bcf696e678e6e05bdd3aa3d1ac0fb6ba0ea06fdf), this will cause launch time delays
+[24Dec2024 01:10:01.026] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_2 is being run through DFU (hash b4e6d6f8adb4631444b85f90fc9b38f3655d064b45331df77d1c5382a9ca4066), this will cause launch time delays
+[24Dec2024 01:10:01.281] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_3 is being run through DFU (hash baeffdbe67cd9b5ca7a7312a80ffa5dafa459526e809d446b9c3b19225da81c1), this will cause launch time delays
+[24Dec2024 01:10:01.745] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_0 is being run through DFU (hash d9aa0b9cab38f10282a26f4439eb12ad329aff97e2b7a26cdb6a6bab87c88887), this will cause launch time delays
+[24Dec2024 01:10:04.308] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[24Dec2024 01:10:06.113] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[24Dec2024 01:10:06.116] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[24Dec2024 01:10:07.051] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[24Dec2024 01:10:07.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[24Dec2024 01:10:10.297] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[24Dec2024 01:10:10.303] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[24Dec2024 01:10:12.032] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[24Dec2024 01:10:13.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[24Dec2024 01:10:13.505] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[24Dec2024 01:10:13.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[24Dec2024 01:10:13.599] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[24Dec2024 01:10:13.696] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[24Dec2024 01:10:18.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[24Dec2024 01:10:18.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[24Dec2024 01:10:19.541] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[24Dec2024 01:10:19.667] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[24Dec2024 01:10:21.828] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[24Dec2024 01:10:21.830] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[24Dec2024 01:10:23.113] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[24Dec2024 01:10:23.119] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[24Dec2024 01:10:23.544] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[24Dec2024 01:10:23.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[24Dec2024 01:10:24.689] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[24Dec2024 01:10:28.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Harpy
+[24Dec2024 01:10:28.314] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-190, y:89, z:395, dim:minecraft:overworld]
+[24Dec2024 01:10:28.327] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 01:10:30.456] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[24Dec2024 01:10:31.478] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id friendsandfoes:iceologer
+[24Dec2024 01:10:42.061] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[24Dec2024 01:10:53.906] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[24Dec2024 01:10:53.906] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[24Dec2024 01:10:53.906] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[24Dec2024 01:10:53.906] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[24Dec2024 01:10:53.906] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[24Dec2024 01:10:53.907] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[24Dec2024 01:10:53.907] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[24Dec2024 01:10:53.907] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[24Dec2024 01:10:53.907] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[24Dec2024 01:10:53.907] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[24Dec2024 01:10:53.907] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[24Dec2024 01:10:53.971] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[24Dec2024 01:10:53.973] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@61a704d3
+[24Dec2024 01:10:53.999] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@4783da3f
+[24Dec2024 01:10:54.052] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[24Dec2024 01:10:54.053] [Worker-Main-9/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[24Dec2024 01:10:56.063] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[24Dec2024 01:11:00.269] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[24Dec2024 01:11:01.530] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[24Dec2024 01:11:01.888] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[24Dec2024 01:11:02.369] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[24Dec2024 01:11:05.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Isn't It Iron Pick]
+[24Dec2024 01:11:24.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[24Dec2024 01:11:29.115] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[24Dec2024 01:12:50.343] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[24Dec2024 01:12:50.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 01:12:50.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 01:15:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Satyress
+[24Dec2024 01:15:14.050] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:6, y:88, z:293, dim:minecraft:overworld]
+[24Dec2024 01:15:14.065] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 01:15:15.216] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
