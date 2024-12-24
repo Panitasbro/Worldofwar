@@ -2079,7 +2079,10 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-24 00:44:25 +0000",
       "minecraft:beach": "2024-12-23 06:46:09 +0000",
+      "minecraft:river": "2024-12-24 02:42:24 +0000",
+      "minecraft:dripstone_caves": "2024-12-24 02:41:31 +0000",
       "minecraft:forest": "2024-12-23 06:51:28 +0000",
+      "minecraft:flower_forest": "2024-12-24 02:42:53 +0000",
       "minecraft:plains": "2024-12-23 06:12:12 +0000"
     },
     "done": false
@@ -2255,6 +2258,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-23 06:19:07 +0000",
+      "minecraft:skeleton": "2024-12-24 02:43:02 +0000",
       "minecraft:vindicator": "2024-12-23 06:21:24 +0000",
       "minecraft:spider": "2024-12-23 06:57:02 +0000",
       "minecraft:zombie": "2024-12-23 06:23:56 +0000",
@@ -2277,7 +2281,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-23 06:14:13 +0000",
-      "opened_chest": "2024-12-23 06:14:06 +0000"
+      "opened_chest": "2024-12-23 06:14:06 +0000",
+      "opened_cart": "2024-12-24 02:41:47 +0000"
     },
     "done": false
   },
@@ -5025,77 +5030,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
+      "has_log": "2024-12-24 00:36:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
+      "has_log": "2024-12-24 00:36:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
+      "has_item": "2024-12-24 00:36:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "create:recipes/misc/crafting/materials/experience_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
+      "has_item": "2024-12-24 00:36:59 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 00:56:51 +0000"
-    },
-    "done": false
+    "done": true
   },
   "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
@@ -5103,27 +5060,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-24 00:52:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-24 00:37:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-24 00:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-24 00:45:39 +0000"
     },
     "done": true
   },
@@ -5151,51 +5090,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-24 00:45:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-24 00:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-24 00:53:09 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-12-24 00:37:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2024-12-24 00:55:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-12-24 00:53:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-24 00:53:09 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/arsonist_necklace": {
-    "criteria": {
-      "has_fire_charge": "2024-12-24 00:44:34 +0000"
     },
     "done": true
   },
@@ -5211,25 +5108,13 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
-    "criteria": {
-      "has_item": "2024-12-24 00:36:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/experience_block": {
-    "criteria": {
-      "has_item": "2024-12-24 00:36:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-24 00:53:09 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:37:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2024-12-24 00:37:00 +0000"
     },
@@ -5241,15 +5126,27 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+  "dungeons_arise:find_merchant_campsite": {
     "criteria": {
-      "has_item": "2024-12-24 00:37:00 +0000"
+      "location0": "2024-12-24 00:44:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "skilltree:recipes/misc/arsonist_necklace": {
     "criteria": {
-      "has_log": "2024-12-24 00:36:41 +0000"
+      "has_fire_charge": "2024-12-24 00:44:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 00:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 00:45:39 +0000"
     },
     "done": true
   },
@@ -5259,15 +5156,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_log": "2024-12-24 00:36:41 +0000"
+      "shot_arrow": "2024-12-24 00:52:58 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_merchant_campsite": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "location0": "2024-12-24 00:44:25 +0000"
+      "has_salmon": "2024-12-24 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-24 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-24 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-24 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-24 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-24 00:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-24 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2024-12-24 02:43:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-24 02:41:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-24 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-24 02:42:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-24 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-24 02:43:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-24 02:41:49 +0000"
     },
     "done": true
   },

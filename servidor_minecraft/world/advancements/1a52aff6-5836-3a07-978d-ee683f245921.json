@@ -1,4 +1,10 @@
 {
+  "swem:recipes/misc/halter_brown": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -20,6 +26,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_brown_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -53,9 +65,21 @@
     },
     "done": true
   },
+  "swem:recipes/misc/separator_purple": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_red": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_purple_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -77,9 +101,27 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_cyan_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_black": {
     "criteria": {
       "has_pasture_blanket_armored": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_magenta_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -95,9 +137,21 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_gray_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
@@ -113,6 +167,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_lime_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/quiver": {
     "criteria": {
       "has_leather": "2024-12-24 00:49:46 +0000"
@@ -122,6 +182,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_purple": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -137,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_brown_care": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -149,6 +221,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_purple": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-24 00:47:16 +0000"
@@ -158,6 +242,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
@@ -263,6 +353,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_red_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_burrowing": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -281,6 +377,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_lime_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-24 00:47:17 +0000"
@@ -290,6 +392,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-24 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
     },
     "done": true
   },
@@ -311,15 +419,33 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_light_blue": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/remote_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
@@ -341,6 +467,12 @@
     },
     "done": true
   },
+  "swem:recipes/decorations/shop": {
+    "criteria": {
+      "has_emeralds": "2024-12-24 02:16:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -350,6 +482,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -383,6 +521,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_jungle": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-24 00:49:46 +0000"
@@ -401,9 +545,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_gray_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_black": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_cyan": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_dark_oak": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -425,6 +587,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -443,6 +611,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2024-12-24 02:32:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_trim": {
     "criteria": {
       "has_planks": "2024-12-24 00:47:16 +0000"
@@ -452,6 +626,12 @@
   "swem:recipes/misc/english_blanket/english_blanket_pink": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 02:17:24 +0000"
     },
     "done": true
   },
@@ -470,6 +650,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_red": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -494,6 +680,12 @@
   "ars_nouveau:recipes/misc/source_berry_pie": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_yellow_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -527,15 +719,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 02:17:24 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_leg_wraps/western_leg_wraps_light_blue_from_leg_wraps": {
     "criteria": {
       "has_western_leg_wraps": "2024-12-24 02:07:33 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/separator_light_gray": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_green": {
     "criteria": {
       "has_pasture_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_light_blue_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -566,6 +788,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-24 02:27:28 +0000"
     },
     "done": true
   },
@@ -608,6 +836,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-24 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -707,6 +941,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_yellow_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_fence_acacia": {
     "criteria": {
       "has_stick": "2024-12-24 01:55:49 +0000"
@@ -728,6 +968,18 @@
   "swem:recipes/misc/western_leg_wraps/western_leg_wraps_green": {
     "criteria": {
       "has_western_leg_wraps": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_pink": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -767,9 +1019,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_yellow": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_orange_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -812,6 +1082,12 @@
   "storagedrawers:recipes/storagedrawers/cherry_trim": {
     "criteria": {
       "has_planks": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
@@ -929,6 +1205,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/separator_white": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_warping": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -938,6 +1220,12 @@
   "swem:recipes/misc/english_blanket/english_blanket_purple": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_gray": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -974,6 +1262,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_brown_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1031,6 +1325,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_light_blue_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flowering": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -1043,9 +1343,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-12-24 02:25:04 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/plate_iron": {
     "criteria": {
       "has_ingredient": "2024-12-24 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_black": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1061,9 +1373,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/separator_green": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-24 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
@@ -1091,6 +1421,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_magenta_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_green_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-24 01:55:49 +0000"
@@ -1109,6 +1451,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-24 02:17:19 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_brown": {
     "criteria": {
       "has_pasture_blanket_armored": "2024-12-24 02:07:33 +0000"
@@ -1118,6 +1466,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-12-24 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_white": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -1163,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -1193,6 +1553,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2024-12-24 02:17:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-24 00:50:39 +0000"
@@ -1211,6 +1577,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_yellow_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -1220,6 +1592,12 @@
   "swem:recipes/misc/western_leg_wraps/western_leg_wraps_light_blue": {
     "criteria": {
       "has_western_leg_wraps": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -1277,9 +1655,21 @@
     },
     "done": true
   },
+  "swem:recipes/misc/halter_black": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_orange_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1355,15 +1745,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/green_sbed": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_green": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1403,6 +1811,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_brown_armored_from_blanket": {
     "criteria": {
       "has_pasture_blanket_armored": "2024-12-24 02:07:33 +0000"
@@ -1412,6 +1826,12 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-24 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-24 02:16:59 +0000"
     },
     "done": true
   },
@@ -1439,9 +1859,21 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2024-12-24 02:26:50 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_brown": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_gray_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1499,9 +1931,21 @@
     },
     "done": true
   },
+  "swem:recipes/misc/separator_pink": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-24 02:32:02 +0000"
     },
     "done": true
   },
@@ -1511,15 +1955,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/tack_box_green": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_orange_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_lime": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1535,6 +1997,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2024-12-24 00:47:17 +0000"
@@ -1547,9 +2015,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_red_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_red": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_magenta_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1745,6 +2231,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_red_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_black_care": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -1757,9 +2249,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_lime": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "armageddon_mod:the_iron_colossus_treasure_bag_advancment": {
     "criteria": {
       "the_iron_colossus_treasure_bag_advancment_0": "2024-12-24 00:54:13 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_cyan_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1793,6 +2309,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 02:16:59 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -1802,6 +2324,12 @@
   "swem:recipes/misc/english_blanket/english_blanket_purple_from_blanket": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_blue": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1817,15 +2345,39 @@
     },
     "done": true
   },
+  "swem:recipes/misc/halter_light_blue": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_black_armored_from_blanket": {
     "criteria": {
       "has_pasture_blanket_armored": "2024-12-24 02:07:33 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/halter_white": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/plate_gold": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_light_blue_from_blanket": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/hitching_ring": {
+    "criteria": {
+      "has_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -1889,6 +2441,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_blue": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_light_blue": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
@@ -1901,6 +2459,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_lime_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -1910,6 +2474,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-24 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
     },
     "done": true
   },
@@ -1943,6 +2513,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_light_gray_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
@@ -1967,6 +2543,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/halter_magenta": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_leg_wraps/western_leg_wraps_lime_from_leg_wraps": {
     "criteria": {
       "has_western_leg_wraps": "2024-12-24 02:07:33 +0000"
@@ -1988,6 +2570,18 @@
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_light_gray_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 02:17:24 +0000"
     },
     "done": true
   },
@@ -2069,6 +2663,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_light_gray_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_white_care": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -2093,6 +2693,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_black": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_yellow_horse": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -2105,6 +2711,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/helmet_riding": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-24 01:56:19 +0000"
@@ -2113,9 +2731,29 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-24 02:15:42 +0000",
+      "apple": "2024-12-24 02:21:45 +0000",
       "suspicious_stew": "2024-12-24 01:56:19 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-24 02:17:19 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_green_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
   },
   "swem:recipes/misc/english_leg_wraps/english_leg_wraps_orange_from_leg_wraps": {
     "criteria": {
@@ -2147,6 +2785,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_light_gray": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_light_blue_care": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -2162,6 +2806,12 @@
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_green": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -2273,6 +2923,24 @@
     },
     "done": true
   },
+  "swem:recipes/misc/separator_orange": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_purple_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2024-12-24 01:55:49 +0000"
@@ -2297,6 +2965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/western_leg_wraps/western_leg_wraps_purple": {
     "criteria": {
       "has_western_leg_wraps": "2024-12-24 02:07:33 +0000"
@@ -2306,6 +2980,24 @@
   "swem:recipes/misc/pasture_blanket/pasture_blanket_red": {
     "criteria": {
       "has_pasture_blanket": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_spruce": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_pink_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -2324,6 +3016,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_orange": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -2465,9 +3163,21 @@
     },
     "done": true
   },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2024-12-24 02:24:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-24 00:50:35 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -2498,6 +3208,12 @@
   "ars_nouveau:recipes/misc/ritual_restoration": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_blue": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -2585,6 +3301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 02:17:24 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_lime_horse": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -2629,9 +3351,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-24 02:16:59 +0000",
+      "minecraft:skeleton": "2024-12-24 02:20:43 +0000",
       "minecraft:zombie": "2024-12-24 02:05:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 02:27:28 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/misc/archwood_chest": {
     "criteria": {
@@ -2771,6 +3501,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_orange": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -2804,6 +3540,18 @@
   "swem:recipes/misc/western_leg_wraps/western_leg_wraps_green_from_leg_wraps": {
     "criteria": {
       "has_western_leg_wraps": "2024-12-24 02:07:33 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/rivet_gold": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
@@ -2916,6 +3664,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_brown": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_purple": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -2964,6 +3718,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_gray_care": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -3003,6 +3763,12 @@
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_sea_lantern": "2024-12-24 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
     },
     "done": true
   },
@@ -3048,9 +3814,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_white_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-24 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_light_blue_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_pink": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -3066,6 +3850,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_purple_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -3078,15 +3868,33 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2024-12-24 02:32:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_awakening": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
     },
     "done": true
   },
+  "swem:recipes/misc/separator_lime": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-12-24 00:50:56 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_magenta": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -3126,6 +3934,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_crimson": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_jar": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -3159,6 +3973,18 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_black_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -3228,6 +4054,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_black_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_lime_armored_from_blanket": {
     "criteria": {
       "has_pasture_blanket_armored": "2024-12-24 02:07:33 +0000"
@@ -3282,6 +4120,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_magenta": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_cyan_horse": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -3330,9 +4174,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_pink_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_light_blue": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-24 02:17:19 +0000"
     },
     "done": true
   },
@@ -3345,6 +4207,12 @@
   "ars_nouveau:recipes/misc/purple_sbed": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_oak": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -3444,6 +4312,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/halter_gray": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -3479,6 +4353,12 @@
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-24 02:21:22 +0000"
+    },
+    "done": false
   },
   "swem:recipes/misc/tack_box_light_gray": {
     "criteria": {
@@ -3642,6 +4522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2024-12-24 00:47:16 +0000"
@@ -3669,6 +4555,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
     },
     "done": true
   },
@@ -3708,9 +4600,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-24 02:17:19 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -3738,6 +4648,18 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_yellow": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_cyan": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_leg_wraps/english_leg_wraps_magenta": {
     "criteria": {
       "has_english_leg_wraps": "2024-12-24 02:07:33 +0000"
@@ -3747,6 +4669,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2024-12-24 02:16:59 +0000"
     },
     "done": true
   },
@@ -3792,6 +4720,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_white_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_blue": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
@@ -3822,6 +4756,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_green_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_brown": {
     "criteria": {
       "has_pasture_blanket": "2024-12-24 02:07:33 +0000"
@@ -3840,9 +4780,21 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-24 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_black_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -3876,9 +4828,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_harvest": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_white_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -3897,6 +4861,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/separator_yellow": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -3966,9 +4936,21 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_cyan_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_warped": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
   },
@@ -3990,6 +4972,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-12-24 02:25:04 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-24 01:55:49 +0000"
@@ -4005,6 +4993,18 @@
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_cyan": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -4062,6 +5062,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-24 02:21:23 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_armored_magenta": {
     "criteria": {
       "has_pasture_blanket_armored": "2024-12-24 02:07:33 +0000"
@@ -4080,6 +5086,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_red": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -4092,6 +5104,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_acacia": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2024-12-24 00:49:22 +0000"
@@ -4101,6 +5119,18 @@
   "storagedrawers:recipes/storagedrawers/quantify_key": {
     "criteria": {
       "has_template": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/bin_grain_birch": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-24 02:17:41 +0000"
     },
     "done": true
   },
@@ -4128,6 +5158,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_blue_horse": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_blanket/english_blanket_green_from_blanket": {
     "criteria": {
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
@@ -4146,9 +5182,27 @@
     },
     "done": true
   },
+  "swem:recipes/misc/separator_brown": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2024-12-24 01:55:49 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/halter_light_gray": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_blue_rider": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -4176,6 +5230,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/bin_grain_gray": {
+    "criteria": {
+      "has_chest": "2024-12-24 02:34:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -4200,6 +5260,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-24 02:17:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-24 02:17:19 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/english_leg_wraps/english_leg_wraps_brown": {
     "criteria": {
       "has_english_leg_wraps": "2024-12-24 02:07:33 +0000"
@@ -4212,8 +5290,15 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_blue_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2024-12-24 02:20:16 +0000",
       "minecraft:plains": "2024-12-24 00:47:22 +0000"
     },
     "done": false
@@ -4248,6 +5333,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "swem:recipes/misc/tack_box_yellow": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -4275,6 +5366,12 @@
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/web_guard_pink_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
   },
@@ -4338,6 +5435,12 @@
     },
     "done": true
   },
+  "swem:recipes/misc/web_guard_brown_care": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -4359,6 +5462,18 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:17 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2024-12-24 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-24 02:19:24 +0000"
     },
     "done": true
   },
