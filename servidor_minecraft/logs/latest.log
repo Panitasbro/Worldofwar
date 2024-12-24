@@ -4271,3 +4271,26 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 03:07:12.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/40169, l='ServerLevel[world]', x=139.77, y=84.85, z=521.11] died: Honeyed Archer was slain by Dread Hound
 [24Dec2024 03:07:15.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 was slain by Spriggan
 [24Dec2024 03:07:15.470] [Server thread/INFO] [tombstone/]: The player DAIRA_3 has successfully been saved
+[24Dec2024 03:10:56.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 was slain by Zombie
+[24Dec2024 03:10:56.818] [Server thread/INFO] [tombstone/]: The player DAIRA_3 has successfully been saved
+[24Dec2024 03:11:34.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[24Dec2024 03:11:34.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[24Dec2024 03:14:04.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Magic Writing]
+[24Dec2024 03:14:10.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Great minds think alike]
+[24Dec2024 03:15:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Fortuitous Militia]
+[24Dec2024 03:16:20.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:60181] logged in with entity id 43275 at (3.3909350484609604, 84.0, 317.30000001192093)
+[24Dec2024 03:16:20.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[24Dec2024 03:16:20.891] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[24Dec2024 03:16:20.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[24Dec2024 03:16:20.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[24Dec2024 03:16:20.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[24Dec2024 03:16:20.896] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[24Dec2024 03:16:20.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[24Dec2024 03:16:20.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[24Dec2024 03:16:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Mysterious Gift]
+[24Dec2024 03:16:51.004] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[24Dec2024 03:16:51.005] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[24Dec2024 03:18:14.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Satyress
+[24Dec2024 03:18:14.718] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 03:18:30.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Satyress
+[24Dec2024 03:18:30.783] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved

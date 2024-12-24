@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
+  },
   "swem:recipes/misc/separator_purple": {
     "criteria": {
       "has_iron_nugget": "2024-12-24 02:27:06 +0000"
@@ -671,6 +677,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
+  },
   "armageddon_mod:choups_ores_keeper_advancement": {
     "criteria": {
       "choups_ores_keeper_advancement_0": "2024-12-24 00:47:17 +0000"
@@ -946,6 +958,12 @@
       "opened_barrel": "2024-12-24 00:50:15 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
@@ -1223,6 +1241,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
+  },
   "swem:recipes/misc/tack_box_magenta": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -1270,6 +1294,12 @@
       "has_english_blanket": "2024-12-24 02:07:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
   },
   "swem:recipes/misc/separator_gray": {
     "criteria": {
@@ -1745,6 +1775,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2024-12-24 00:47:54 +0000"
@@ -2129,6 +2165,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-24 00:47:16 +0000"
@@ -2206,6 +2248,12 @@
       "has_smithing_trim_template": "2024-12-24 00:50:33 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
   },
   "swem:recipes/misc/pasture_blanket/pasture_blanket_orange": {
     "criteria": {
@@ -2362,6 +2410,12 @@
       "has_iron_nugget": "2024-12-24 02:27:06 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -3331,6 +3385,12 @@
       "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
@@ -4565,6 +4625,12 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
+  },
   "swem:recipes/misc/tack_box_light_gray": {
     "criteria": {
       "has_iron_ingot": "2024-12-24 00:52:01 +0000"
@@ -4876,6 +4942,12 @@
       "has_chest": "2024-12-24 02:34:21 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-24 03:11:24 +0000"
+    },
+    "done": false
   },
   "swem:recipes/misc/bin_grain_cyan": {
     "criteria": {

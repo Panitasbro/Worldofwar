@@ -5717,171 +5717,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/whitewash_stall_care": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-24 00:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/dark_oak_stall_horse": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-12-24 00:50:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/plate_diamond": {
-    "criteria": {
-      "has_ingredient": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/birch_stall_care": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2024-12-24 01:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-24 01:11:05 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_01": "2024-12-24 00:41:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-12-24 00:58:17 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/jungle_stall_care": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2024-12-24 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/spruce_stall_care": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/oak_stall_care": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "has_paper": "2024-12-24 00:46:56 +0000"
     },
     "done": true
   },
@@ -5891,105 +5729,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+      "deflected_projectile": "2024-12-24 00:42:59 +0000"
     },
     "done": true
   },
-  "swem:recipes/misc/acacia_stall_horse": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
+      "has_item": "2024-12-24 00:46:56 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+  "supplementaries:recipes/notice_board": {
     "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/jungle_stall_horse": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 01:09:27 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/acacia_stall_care": {
-    "criteria": {
-      "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2024-12-24 00:53:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2024-12-24 00:47:03 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:recipes/misc/quill": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/diamond_quiver": {
-    "criteria": {
-      "has_gems_diamond": "2024-12-24 00:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-24 01:09:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
+      "has_paper": "2024-12-24 00:46:56 +0000"
     },
     "done": true
   },
@@ -5999,27 +5753,69 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
-    "criteria": {
-      "has_item": "2024-12-24 00:57:21 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "ghoul": "2024-12-24 01:04:21 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2024-12-24 00:46:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+      "has_paper": "2024-12-24 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-24 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-24 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-24 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-24 00:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-24 00:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-24 00:50:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 00:53:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-24 00:55:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2024-12-24 00:57:21 +0000"
     },
     "done": true
   },
@@ -6029,39 +5825,63 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "swem:recipes/misc/whitewash_stall_care": {
     "criteria": {
-      "diamond": "2024-12-24 00:59:04 +0000"
+      "has_bars": "2024-12-24 00:57:38 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/corruption": {
+  "swem:recipes/misc/dark_oak_stall_horse": {
     "criteria": {
-      "corruption": "2024-12-24 01:05:34 +0000"
+      "has_bars": "2024-12-24 00:57:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+  "swem:recipes/misc/birch_stall_care": {
     "criteria": {
-      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+      "has_bars": "2024-12-24 00:57:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "swem:recipes/misc/jungle_stall_care": {
     "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
+      "has_bars": "2024-12-24 00:57:38 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/spruce_stall_care": {
+    "criteria": {
+      "has_bars": "2024-12-24 00:57:38 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/oak_stall_care": {
+    "criteria": {
+      "has_bars": "2024-12-24 00:57:38 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/acacia_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-12-24 00:57:38 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/jungle_stall_horse": {
+    "criteria": {
+      "has_bars": "2024-12-24 00:57:38 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/acacia_stall_care": {
+    "criteria": {
+      "has_bars": "2024-12-24 00:57:38 +0000"
     },
     "done": true
   },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-24 00:46:56 +0000"
     },
     "done": true
   },
@@ -6077,69 +5897,9 @@
     },
     "done": true
   },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2024-12-24 01:09:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-24 01:09:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/comet_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2024-12-24 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-12-24 00:55:50 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/dark_oak_stall_care": {
     "criteria": {
       "has_bars": "2024-12-24 00:57:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2024-12-24 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-24 00:58:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2024-12-24 00:46:56 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/random": {
-    "criteria": {
-      "sword": "2024-12-24 01:03:30 +0000"
-    },
-    "done": true
-  },
-  "swem:recipes/misc/rivet_diamond": {
-    "criteria": {
-      "has_ingredient": "2024-12-24 00:59:04 +0000"
     },
     "done": true
   },
@@ -6149,21 +5909,249 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2024-12-24 01:14:34 +0000"
-    },
-    "done": true
-  },
   "swem:recipes/misc/whitewash_stall_horse": {
     "criteria": {
       "has_bars": "2024-12-24 00:57:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_paper": "2024-12-24 00:46:56 +0000"
+      "has_item_frame": "2024-12-24 00:58:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-24 00:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/plate_diamond": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/rivet_diamond": {
+    "criteria": {
+      "has_ingredient": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 00:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-24 01:02:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-24 01:03:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2024-12-24 01:04:21 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-24 01:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-24 01:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-24 01:09:27 +0000"
     },
     "done": true
   },
@@ -6173,9 +6161,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "has_diamond": "2024-12-24 00:59:04 +0000"
+      "sugarcoat_0": "2024-12-24 01:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-24 01:11:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-24 01:14:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 03:16:21 +0000"
     },
     "done": true
   },
