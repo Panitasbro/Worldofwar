@@ -4129,3 +4129,8 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 01:23:40.538] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [24Dec2024 01:28:54.636] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [24Dec2024 01:28:54.636] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[24Dec2024 01:55:15.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [The Most Useful Key]
+[24Dec2024 01:55:33.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Knowledge of Death]
+[24Dec2024 01:55:33.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has reached the goal [A Fast Comeback]
+[24Dec2024 01:56:19.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has completed the challenge [When the Stew is Sus]
+[24Dec2024 01:57:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Isn't It Iron Pick]
