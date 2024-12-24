@@ -4037,3 +4037,26 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 04:17:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Greed may lead to loss]
 [24Dec2024 04:23:25.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7175, l='ServerLevel[world]', x=24.39, y=64.00, z=37.70] died, message: 'Villager was slain by Door Knight'
 [24Dec2024 04:25:09.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7177, l='ServerLevel[world]', x=23.50, y=64.00, z=28.50] died, message: 'Villager was slain by Door Knight'
+[24Dec2024 04:29:32.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Harpy
+[24Dec2024 04:29:32.747] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 04:30:53.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:55005] logged in with entity id 9520 at (-443.45577170244763, 103.0, 70.45983111250023)
+[24Dec2024 04:30:53.528] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[24Dec2024 04:30:53.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[24Dec2024 04:30:53.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[24Dec2024 04:30:53.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[24Dec2024 04:30:53.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[24Dec2024 04:30:53.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[24Dec2024 04:30:53.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[24Dec2024 04:30:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[24Dec2024 04:30:55.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed
+[24Dec2024 04:30:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[24Dec2024 04:30:55.446] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[24Dec2024 04:30:56.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[24Dec2024 04:33:01.543] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Dec2024 04:33:01.548] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Dec2024 04:33:01.548] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Dec2024 04:33:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Ice Bucket Challenge]
+[24Dec2024 04:34:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Safe Haven]
+[24Dec2024 04:35:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was killed by Ant Salvager using magic
+[24Dec2024 04:35:06.513] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 04:35:48.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Call For Adventure]
