@@ -4145,3 +4145,9 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 02:06:13.465] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [24Dec2024 02:06:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has reached the goal [Here They Come]
 [24Dec2024 02:07:06.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Ashes 'n Bones]
+[24Dec2024 02:09:39.151] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[24Dec2024 02:09:39.151] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[24Dec2024 02:12:11.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/21302, l='ServerLevel[world]', x=-101.28, y=69.85, z=217.00] died: Honeyed Archer suffocated in a wall
+[24Dec2024 02:13:03.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 was slain by Zombie
+[24Dec2024 02:13:03.114] [Server thread/INFO] [tombstone/]: The player DAIRA_3 has successfully been saved
+[24Dec2024 02:16:59.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Ambush]
