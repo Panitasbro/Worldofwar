@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "c00740e2-021d-3b0d-9f33-44ad59636721",
+    "name": "Darkgospel",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

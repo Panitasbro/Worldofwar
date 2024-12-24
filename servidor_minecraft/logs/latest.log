@@ -4023,3 +4023,84 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 00:40:27.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
 [24Dec2024 00:40:30.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [24Dec2024 00:40:56.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10939ms or 218 ticks behind
+[24Dec2024 00:41:24.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12679ms or 253 ticks behind
+[24Dec2024 00:41:43.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Gravedigger]
+[24Dec2024 00:41:55.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16495ms or 329 ticks behind
+[24Dec2024 00:42:17.311] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Dec2024 00:42:17.322] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Dec2024 00:42:17.324] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[24Dec2024 00:42:33.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22847ms or 456 ticks behind
+[24Dec2024 00:42:54.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Ambush]
+[24Dec2024 00:42:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Not Today, Thank You]
+[24Dec2024 00:43:12.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23894ms or 477 ticks behind
+[24Dec2024 00:43:35.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8370ms or 167 ticks behind
+[24Dec2024 00:44:12.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21619ms or 432 ticks behind
+[24Dec2024 00:44:53.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26196ms or 523 ticks behind
+[24Dec2024 00:45:27.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18968ms or 379 ticks behind
+[24Dec2024 00:46:03.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21264ms or 425 ticks behind
+[24Dec2024 00:46:38.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19232ms or 384 ticks behind
+[24Dec2024 00:47:03.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10124ms or 202 ticks behind
+[24Dec2024 00:47:03.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Ol' Betsy]
+[24Dec2024 00:47:16.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.138.28.203:55831] logged in with entity id 6260 at (-47.5, 85.0, 242.5)
+[24Dec2024 00:47:16.039] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[24Dec2024 00:47:16.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[24Dec2024 00:47:16.064] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[24Dec2024 00:47:16.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[24Dec2024 00:47:16.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[24Dec2024 00:47:16.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[24Dec2024 00:47:16.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[24Dec2024 00:47:16.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[24Dec2024 00:47:16.255] [Server thread/INFO] [net.forixaim.battle_arts.core_assets.events.SpawnLogic/]: First login detected for player DAIRA_3
+[24Dec2024 00:47:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Christmas]
+[24Dec2024 00:47:17.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has completed the challenge [Armageddon Mod !]
+[24Dec2024 00:47:17.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has completed the challenge [Armageddon Mod: Relics!]
+[24Dec2024 00:47:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Ice and Fire]
+[24Dec2024 00:47:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Integrated Dungeons and Structures]
+[24Dec2024 00:47:17.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has completed the challenge [The Undead]
+[24Dec2024 00:47:31.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13168ms or 263 ticks behind
+[24Dec2024 00:47:54.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Alex's Mobs]
+[24Dec2024 00:48:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was caught by Archevoker's fangs
+[24Dec2024 00:48:15.935] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:48:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze went off with a bang thanks to Archevoker
+[24Dec2024 00:48:36.778] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:48:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze went off with a bang thanks to Archevoker
+[24Dec2024 00:48:54.790] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:49:10.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was caught by Archevoker's fangs
+[24Dec2024 00:49:10.487] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:49:31.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement ['X' Marks the Spot]
+[24Dec2024 00:50:02.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Take Aim]
+[24Dec2024 00:50:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Pillager
+[24Dec2024 00:50:07.877] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:50:15.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Barrel Booty]
+[24Dec2024 00:50:25.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was caught by Archevoker's fangs
+[24Dec2024 00:50:25.282] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:50:49.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Dec2024 00:50:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Op darkgospel<--[HERE]
+[24Dec2024 00:50:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Not a Diamond]
+[24Dec2024 00:50:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was caught by Archevoker's fangs
+[24Dec2024 00:50:56.588] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:51:03.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Darkgospel a server operator
+[24Dec2024 00:51:16.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Gamerule playersSleepingPercentage is now set to: 1]
+[24Dec2024 00:51:30.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze went off with a bang thanks to Archevoker
+[24Dec2024 00:51:30.607] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:52:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Acquire Hardware]
+[24Dec2024 00:52:02.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has reached the goal [Eye of Darkness]
+[24Dec2024 00:52:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has completed the challenge [Serious Dedication]
+[24Dec2024 00:52:05.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Suit Up]
+[24Dec2024 00:52:07.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [I Found It Underground]
+[24Dec2024 00:52:07.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Apothic Affixes]
+[24Dec2024 00:52:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was eviscerated by Archevoker's vexes
+[24Dec2024 00:52:26.834] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[24Dec2024 00:52:58.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Take Aim]
+[24Dec2024 00:53:03.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Dec2024 00:53:17.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Fortuitous Militia]
+[24Dec2024 00:53:22.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3442ms or 68 ticks behind
+[24Dec2024 00:53:39.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Iron Remote]
+[24Dec2024 00:54:10.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[24Dec2024 00:54:12.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has completed the challenge [The Iron Keeper]
+[24Dec2024 00:54:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [The Iron Colossus Treasure Bag]
+[24Dec2024 00:54:31.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6099ms or 121 ticks behind
+[24Dec2024 00:54:48.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [The Iron Colossus Relic]
+[24Dec2024 00:54:53.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7081ms or 141 ticks behind
+[24Dec2024 00:55:13.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5189ms or 103 ticks behind
+[24Dec2024 00:55:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Mine? Mine? Mine?]

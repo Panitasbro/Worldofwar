@@ -2077,6 +2077,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-24 00:44:25 +0000",
       "minecraft:beach": "2024-12-23 06:46:09 +0000",
       "minecraft:forest": "2024-12-23 06:51:28 +0000",
       "minecraft:plains": "2024-12-23 06:12:12 +0000"
@@ -5036,6 +5037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 00:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-24 00:37:00 +0000"
@@ -5060,9 +5067,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 00:45:39 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-12-24 00:37:00 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2024-12-24 00:44:34 +0000"
     },
     "done": true
   },
@@ -5096,6 +5115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-24 00:41:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2024-12-24 00:37:00 +0000"
@@ -5108,9 +5133,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-24 00:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-24 00:36:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-12-24 00:44:25 +0000"
     },
     "done": true
   },
