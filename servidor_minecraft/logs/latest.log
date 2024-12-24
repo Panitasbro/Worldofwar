@@ -4127,3 +4127,5 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [24Dec2024 01:15:14.065] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [24Dec2024 01:23:40.536] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [24Dec2024 01:23:40.538] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[24Dec2024 01:28:54.636] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[24Dec2024 01:28:54.636] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
