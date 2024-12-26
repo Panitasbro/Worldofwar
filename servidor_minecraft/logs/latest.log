@@ -4032,3 +4032,6 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 23:05:38.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Centennial]
 [26Dec2024 23:09:10.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Not even afraid of death]
 [26Dec2024 23:09:10.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Back to childhood]
+[26Dec2024 23:14:05.926] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[26Dec2024 23:14:55.405] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:16:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Wizard Tower]

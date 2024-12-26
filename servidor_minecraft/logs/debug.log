@@ -19346,3 +19346,143 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 23:08:59.629] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
 [26Dec2024 23:09:10.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Not even afraid of death]
 [26Dec2024 23:09:10.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Back to childhood]
+[26Dec2024 23:11:13.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[26Dec2024 23:11:45.313] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[26Dec2024 23:12:14.488] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_08
+[26Dec2024 23:12:18.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/redwizardtower1
+[26Dec2024 23:12:18.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/redwizardtower2
+[26Dec2024 23:12:21.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[26Dec2024 23:12:23.022] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_07
+[26Dec2024 23:12:36.022] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[26Dec2024 23:12:36.042] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[26Dec2024 23:12:36.060] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[26Dec2024 23:12:36.072] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[26Dec2024 23:12:36.130] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[26Dec2024 23:12:36.164] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[26Dec2024 23:12:37.341] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[26Dec2024 23:12:43.756] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[26Dec2024 23:12:43.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 23:12:44.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 23:12:50.436] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[26Dec2024 23:12:51.375] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[26Dec2024 23:12:53.771] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[26Dec2024 23:12:55.481] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[26Dec2024 23:12:59.424] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[26Dec2024 23:12:59.718] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[26Dec2024 23:13:05.768] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[26Dec2024 23:13:05.772] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[26Dec2024 23:13:05.773] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[26Dec2024 23:13:05.776] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[26Dec2024 23:13:05.795] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[26Dec2024 23:13:05.798] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[26Dec2024 23:13:05.801] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[26Dec2024 23:13:05.803] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[26Dec2024 23:13:05.807] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[26Dec2024 23:13:05.811] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[26Dec2024 23:13:05.816] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[26Dec2024 23:13:05.818] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[26Dec2024 23:13:05.821] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[26Dec2024 23:13:05.827] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[26Dec2024 23:13:05.860] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[26Dec2024 23:13:05.866] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[26Dec2024 23:13:05.867] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[26Dec2024 23:13:05.869] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[26Dec2024 23:13:05.871] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[26Dec2024 23:13:05.872] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[26Dec2024 23:13:05.874] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[26Dec2024 23:13:05.884] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[26Dec2024 23:13:05.891] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[26Dec2024 23:13:05.896] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[26Dec2024 23:13:05.899] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[26Dec2024 23:13:05.900] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[26Dec2024 23:13:05.901] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[26Dec2024 23:13:05.903] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[26Dec2024 23:13:05.905] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[26Dec2024 23:13:16.663] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[26Dec2024 23:13:17.061] [Worker-Main-11/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_stalker is being run through DFU (hash d0dd3a662f93929e4a7387e78891f1d2bd11c6491c0fb4b7eaa7b3caa9888ae3), this will cause launch time delays
+[26Dec2024 23:13:17.739] [Worker-Main-11/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_hunter is being run through DFU (hash 4df74b3332b0b0a41737d16b61c2574da673b4cf25cf2db8459397ec3c03fe95), this will cause launch time delays
+[26Dec2024 23:13:28.448] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[26Dec2024 23:13:36.095] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[26Dec2024 23:13:36.372] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[26Dec2024 23:13:36.405] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[26Dec2024 23:13:36.426] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_0 is being run through DFU (hash 0b114af481df7368765dfcb485fd7685ad7c029bd69ef06a87e635e2b056efcd), this will cause launch time delays
+[26Dec2024 23:13:36.528] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_1 is being run through DFU (hash 496ef0a3e5b47f98675b8246248b31e2cbd0e71657b6cdad6f6576e693b9ec35), this will cause launch time delays
+[26Dec2024 23:13:36.534] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/illusioner_normal_0 is being run through DFU (hash 6f23502f1c946861055d5d38e3de8e783681f1bc18b8a4d6bac34080fd1ef525), this will cause launch time delays
+[26Dec2024 23:13:36.545] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_0 is being run through DFU (hash cd59cca472ec362a97b1a1854dfa82099f282d0fb9a21cc66cf573803f206ab1), this will cause launch time delays
+[26Dec2024 23:13:36.594] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_entrance is being run through DFU (hash 05f8cd9492c5bbdbec92626c83fcaea8444e57e04ec5360ee8bfeda3ee24e5a7), this will cause launch time delays
+[26Dec2024 23:13:36.644] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_0 is being run through DFU (hash 3150906baca61326478732513f3d5915ca880b0f6ae445407fb1dbc4e8afcbe7), this will cause launch time delays
+[26Dec2024 23:13:36.674] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_2 is being run through DFU (hash 4877d9540f462f4e764118c96ee010c1a1c0fc09840836544a613d3288536b5b), this will cause launch time delays
+[26Dec2024 23:13:36.718] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_1 is being run through DFU (hash fc7cf9b3399e33f8a4f8c473d3039ecaef66e6d1ab6c26b8b95945c01d37f77f), this will cause launch time delays
+[26Dec2024 23:13:36.741] [Worker-Main-11/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_deco_1 is being run through DFU (hash 061faa8196076029c0f030bfdfb16e8f5271981a55c1aeca93cd5f4df5e8603c), this will cause launch time delays
+[26Dec2024 23:13:48.121] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[26Dec2024 23:13:48.194] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[26Dec2024 23:13:54.535] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[26Dec2024 23:13:54.558] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[26Dec2024 23:13:54.603] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[26Dec2024 23:13:54.621] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[26Dec2024 23:13:54.641] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[26Dec2024 23:13:54.669] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[26Dec2024 23:13:54.709] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[26Dec2024 23:13:54.724] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[26Dec2024 23:13:54.746] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[26Dec2024 23:13:54.760] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[26Dec2024 23:13:54.794] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[26Dec2024 23:13:54.813] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[26Dec2024 23:13:54.830] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[26Dec2024 23:13:54.852] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[26Dec2024 23:13:54.968] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[26Dec2024 23:13:55.000] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[26Dec2024 23:13:55.031] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[26Dec2024 23:13:55.094] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[26Dec2024 23:13:55.141] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[26Dec2024 23:13:55.185] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/meadow_lamp_1 is being run through DFU (hash 1a0a5c426ea6c68a8f4e2bea163ed043cbfe42919595d580869239956ab68cd5), this will cause launch time delays
+[26Dec2024 23:13:55.400] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_04 is being run through DFU (hash a6ac8b2dc7d64e88aaa9d05a70efa8eea16b91d2dd85d2a4417b9927adba0322), this will cause launch time delays
+[26Dec2024 23:13:55.449] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[26Dec2024 23:13:55.462] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_02 is being run through DFU (hash 670f7691bcd4643f4e3efff743201d542af6d1d2c84264a3986072b350bef54e), this will cause launch time delays
+[26Dec2024 23:13:55.465] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_03 is being run through DFU (hash 3bf6b495a8019f5fde60514ba0d26092048b46681477f9a2be73b91875932b85), this will cause launch time delays
+[26Dec2024 23:13:55.523] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_01 is being run through DFU (hash b48e43c77d15c7fbd4710dcf446361eb01eac2258ebb39c45fff2c383339ef65), this will cause launch time delays
+[26Dec2024 23:13:55.649] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_01 is being run through DFU (hash 774fc89129753fb4f879f865f1793ce41a70862356c6e348702f5242090117a6), this will cause launch time delays
+[26Dec2024 23:13:55.749] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/corner_03 is being run through DFU (hash 5d08a0753073511c44c14467f6c6d3d900982996f896a7b902c26c140cc25a97), this will cause launch time delays
+[26Dec2024 23:13:55.750] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_04 is being run through DFU (hash c2d529e75ad2f90eedff2b10c299dc4cc63eda687e1084fdc613667818fe6e85), this will cause launch time delays
+[26Dec2024 23:13:55.754] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_02 is being run through DFU (hash f724c0de3f3419b3089baf01d03d2a814351c856ce6f035e9e96a8a9fa754e58), this will cause launch time delays
+[26Dec2024 23:13:55.759] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/corner_01 is being run through DFU (hash 4f99a4b839578294b64fd7791670f31c0afe07d3b7f40c02d6cf8e2543b376e7), this will cause launch time delays
+[26Dec2024 23:13:55.764] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/straight_05 is being run through DFU (hash f878107bf3169beb9e90d60be78a4ddccf29d638814d91447c116f2bdbed42f4), this will cause launch time delays
+[26Dec2024 23:13:55.770] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/crossroad_03 is being run through DFU (hash c83116bac206cbff88e2ba1f7a4289437229958881791e394316bd1e33ebdd90), this will cause launch time delays
+[26Dec2024 23:13:55.776] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/streets/corner_02 is being run through DFU (hash ef664417695a1413b83d7dd70860a8a5b37d8e58323ffb019970b82d7a73c40d), this will cause launch time delays
+[26Dec2024 23:13:55.797] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/terminators/terminator_02 is being run through DFU (hash f6509eebb5d98742d3112534fd1664950c550abf3e6647068d3363a350e8a78e), this will cause launch time delays
+[26Dec2024 23:13:55.798] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/terminators/terminator_03 is being run through DFU (hash b898566687c34b3bbaa85e8d235e2ca6231800fc7daae19da8da23441a981d58), this will cause launch time delays
+[26Dec2024 23:13:55.798] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/terminators/terminator_01 is being run through DFU (hash 5f05abb3ffeb8fa771f1c3333b35ec656ab457500df280f63e9f4f3a81b7b9c7), this will cause launch time delays
+[26Dec2024 23:13:55.799] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/meadow_swiss/animals/dog is being run through DFU (hash 4e02f490d931401642cd408b674d838c9b20734398f0bed34295e12a45228257), this will cause launch time delays
+[26Dec2024 23:14:05.926] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[26Dec2024 23:14:35.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[26Dec2024 23:14:55.405] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:14:56.906] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[26Dec2024 23:15:02.116] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[26Dec2024 23:15:02.503] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:irontomb
+[26Dec2024 23:15:46.499] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[26Dec2024 23:15:57.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[26Dec2024 23:15:58.536] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[26Dec2024 23:15:59.025] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[26Dec2024 23:15:59.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[26Dec2024 23:16:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Wizard Tower]
+[26Dec2024 23:16:37.763] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[26Dec2024 23:17:06.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:witches_treestump/witches_treestump
+[26Dec2024 23:17:07.134] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_14 is being run through DFU (hash 9b7df8d45ba58675287e5fe2d8ebacdc996f13051b0b8ad919e2864b961696dc), this will cause launch time delays
+[26Dec2024 23:17:07.165] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[26Dec2024 23:17:10.841] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[26Dec2024 23:17:31.780] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_03
+[26Dec2024 23:17:31.987] [Worker-Main-12/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_05 is being run through DFU (hash a70a81d21a9536ad233a7ffa18269984bf80d09c83ab2107258681f999a20798), this will cause launch time delays
+[26Dec2024 23:17:44.194] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[26Dec2024 23:17:44.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 23:17:44.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 23:17:46.051] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Non-viable branch network detected during world generation @ BlockPos{x=-244, y=83, z=-162}
+[26Dec2024 23:17:46.051] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Species: Species{registryName=dynamictrees:oak}
+[26Dec2024 23:17:46.051] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: Radius: 4
+[26Dec2024 23:17:46.051] [Worker-Main-12/DEBUG] [com.ferreusveritas.dynamictrees.worldgen.JoCode/]: JoCode: JOOJOOOOP0+vfXq60x86K7ZLJ9tJJP
+[26Dec2024 23:17:47.274] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[26Dec2024 23:18:17.271] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Dec2024 23:18:18.742] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal7
+[26Dec2024 23:18:22.495] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19
+[26Dec2024 23:18:22.522] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_19b
+[26Dec2024 23:18:41.207] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_good_loot
+[26Dec2024 23:18:53.913] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_good_loot
