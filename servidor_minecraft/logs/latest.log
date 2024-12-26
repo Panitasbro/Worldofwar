@@ -4061,3 +4061,12 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 23:36:21.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
 [26Dec2024 23:36:22.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
 [26Dec2024 23:37:09.768] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id friendsandfoes:iceologer
+[26Dec2024 23:43:10.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Voluntary Exile]
+[26Dec2024 23:45:09.642] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:09.675] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:09.676] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:10.300] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:10.302] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:42.042] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:47:32.128] [Worker-Main-12/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1428480368,1420968319,-1860773454,-692653137],type:"minecraft:entity",y_offset:0.36f}}]
+[26Dec2024 23:47:32.132] [Worker-Main-12/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-434729057,646008605,-1722651449,-165389026],type:"minecraft:entity",y_offset:0.36f}}]

@@ -2265,6 +2265,7 @@
       "minecraft:pillager": "2024-12-23 06:19:07 +0000",
       "minecraft:skeleton": "2024-12-24 02:43:02 +0000",
       "minecraft:zoglin": "2024-12-26 23:20:31 +0000",
+      "minecraft:ravager": "2024-12-26 23:43:54 +0000",
       "minecraft:vindicator": "2024-12-23 06:21:24 +0000",
       "minecraft:spider": "2024-12-23 06:57:02 +0000",
       "minecraft:creeper": "2024-12-24 02:45:06 +0000",
@@ -6604,6 +6605,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-26 23:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-26 23:43:10 +0000"
     },
     "done": true
   },

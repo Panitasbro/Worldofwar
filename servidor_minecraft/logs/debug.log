@@ -20873,3 +20873,88 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 23:40:09.076] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-763, y=-24, z=254}
 [26Dec2024 23:40:09.076] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-758, y=-11, z=242}
 [26Dec2024 23:40:09.077] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-764, y=-11, z=252}
+[26Dec2024 23:40:11.181] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-784, y=-24, z=246}
+[26Dec2024 23:40:11.183] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-765, y=-24, z=247}
+[26Dec2024 23:40:11.185] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-780, y=-24, z=246}
+[26Dec2024 23:40:11.187] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-763, y=-24, z=254}
+[26Dec2024 23:40:11.187] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-764, y=-11, z=252}
+[26Dec2024 23:40:11.189] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-782, y=-24, z=240}
+[26Dec2024 23:40:11.856] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-784, y=-24, z=246}
+[26Dec2024 23:40:11.857] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-765, y=-24, z=247}
+[26Dec2024 23:40:11.858] [Worker-Main-11/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-789, y=-24, z=240}
+[26Dec2024 23:41:08.226] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[26Dec2024 23:41:14.214] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[26Dec2024 23:41:24.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[26Dec2024 23:41:42.657] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[26Dec2024 23:41:43.122] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[26Dec2024 23:41:59.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[26Dec2024 23:42:16.068] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[26Dec2024 23:42:17.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:castle/castle1
+[26Dec2024 23:42:28.383] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[26Dec2024 23:42:41.277] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[26Dec2024 23:42:57.366] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[26Dec2024 23:42:57.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 23:42:57.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 23:43:01.405] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_02
+[26Dec2024 23:43:09.779] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[26Dec2024 23:43:10.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Voluntary Exile]
+[26Dec2024 23:43:21.571] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[26Dec2024 23:43:22.179] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[26Dec2024 23:43:22.203] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[26Dec2024 23:43:31.814] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[26Dec2024 23:43:53.685] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[26Dec2024 23:43:54.481] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[26Dec2024 23:44:14.395] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[26Dec2024 23:44:37.251] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[26Dec2024 23:44:43.882] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[26Dec2024 23:45:09.642] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:09.675] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:09.676] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:10.300] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:10.302] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:45:12.029] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[26Dec2024 23:45:12.031] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[26Dec2024 23:45:12.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[26Dec2024 23:45:42.042] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Dec2024 23:46:00.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[26Dec2024 23:46:05.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[26Dec2024 23:46:16.481] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of idas:washing_camp/washing_camp
+[26Dec2024 23:46:17.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[26Dec2024 23:46:51.556] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_02
+[26Dec2024 23:47:23.517] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[26Dec2024 23:47:29.262] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/yellowwizardtower1
+[26Dec2024 23:47:29.281] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of idas:wizard_tower/yellowwizardtower2
+[26Dec2024 23:47:32.128] [Worker-Main-12/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1428480368,1420968319,-1860773454,-692653137],type:"minecraft:entity",y_offset:0.36f}}]
+[26Dec2024 23:47:32.132] [Worker-Main-12/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-434729057,646008605,-1722651449,-165389026],type:"minecraft:entity",y_offset:0.36f}}]
+[26Dec2024 23:47:40.305] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[26Dec2024 23:47:40.320] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[26Dec2024 23:47:40.676] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[26Dec2024 23:47:52.870] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[26Dec2024 23:47:57.339] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[26Dec2024 23:47:57.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 23:47:57.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 23:48:24.982] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
+[26Dec2024 23:48:25.268] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[26Dec2024 23:48:27.736] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[26Dec2024 23:48:27.737] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[26Dec2024 23:48:27.737] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[26Dec2024 23:48:27.737] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[26Dec2024 23:48:27.737] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[26Dec2024 23:48:27.738] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[26Dec2024 23:48:27.738] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[26Dec2024 23:48:27.738] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[26Dec2024 23:48:27.738] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[26Dec2024 23:48:27.738] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[26Dec2024 23:48:27.738] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[26Dec2024 23:48:27.754] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[26Dec2024 23:48:27.755] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@6c5747db
+[26Dec2024 23:48:27.756] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@4783da3f
+[26Dec2024 23:48:27.780] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[26Dec2024 23:48:27.781] [Worker-Main-12/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[26Dec2024 23:48:41.359] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[26Dec2024 23:48:50.262] [Worker-Main-12/DEBUG] [ModernFix/]: Structure hopo:portal3 is being run through DFU (hash 615e50d5a47a0460c57495808cdee3a935c9a7b82f3e684e8a8f71ce6a9ae3a0), this will cause launch time delays
+[26Dec2024 23:48:55.456] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[26Dec2024 23:49:49.921] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[26Dec2024 23:49:52.957] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center1
+[26Dec2024 23:49:53.001] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center1
+[26Dec2024 23:50:20.949] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
