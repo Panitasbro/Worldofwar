@@ -4035,3 +4035,29 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 23:14:05.926] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
 [26Dec2024 23:14:55.405] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [26Dec2024 23:16:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Wizard Tower]
+[26Dec2024 23:20:31.655] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Dr. Mudi Schnoz'/7638, l='ServerLevel[world]', x=-291.13, y=75.00, z=-353.70] died: Dr. Mudi Schnoz was slain by Darkgospel
+[26Dec2024 23:21:57.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2775ms or 55 ticks behind
+[26Dec2024 23:22:13.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 1.4123835561219948,1.9971414543129669,9.926905723006428
+[26Dec2024 23:22:18.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6102ms or 122 ticks behind
+[26Dec2024 23:23:03.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [What a Deal!]
+[26Dec2024 23:24:57.991] [Worker-Main-11/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-616, y=140, z=-238}
+[26Dec2024 23:25:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [A Witch's Stump]
+[26Dec2024 23:26:51.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -9.911377875756443,0.0,-2.0437053626605177
+[26Dec2024 23:26:51.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[26Dec2024 23:34:48.486] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Dec2024 23:34:48.537] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Dec2024 23:35:34.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[26Dec2024 23:35:34.173] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[26Dec2024 23:35:38.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
+[26Dec2024 23:36:00.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Timed out
+[26Dec2024 23:36:00.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[26Dec2024 23:36:21.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:38021] logged in with entity id 13026 at (32.5, 69.0, -320.5)
+[26Dec2024 23:36:21.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[26Dec2024 23:36:21.878] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[26Dec2024 23:36:21.878] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[26Dec2024 23:36:21.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[26Dec2024 23:36:21.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[26Dec2024 23:36:21.883] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[26Dec2024 23:36:21.889] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[26Dec2024 23:36:22.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[26Dec2024 23:37:09.768] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id friendsandfoes:iceologer
