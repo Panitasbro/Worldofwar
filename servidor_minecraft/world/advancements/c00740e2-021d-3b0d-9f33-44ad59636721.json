@@ -2082,6 +2082,7 @@
       "minecraft:river": "2024-12-24 02:42:24 +0000",
       "minecraft:dripstone_caves": "2024-12-24 02:41:31 +0000",
       "minecraft:forest": "2024-12-23 06:51:28 +0000",
+      "minecraft:ocean": "2024-12-26 23:03:36 +0000",
       "minecraft:flower_forest": "2024-12-24 02:42:53 +0000",
       "minecraft:plains": "2024-12-23 06:12:12 +0000"
     },
@@ -2263,6 +2264,7 @@
       "minecraft:spider": "2024-12-23 06:57:02 +0000",
       "minecraft:creeper": "2024-12-24 02:45:06 +0000",
       "minecraft:zombie": "2024-12-23 06:23:56 +0000",
+      "minecraft:drowned": "2024-12-26 23:03:06 +0000",
       "minecraft:zombie_villager": "2024-12-23 06:13:34 +0000"
     },
     "done": false
@@ -6409,6 +6411,138 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-26 06:13:58 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-26 22:59:57 +0000"
+    },
+    "done": false
+  },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/plate_gold": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "swem:recipes/misc/rivet_gold": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-26 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-26 23:00:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-26 23:05:38 +0000"
     },
     "done": true
   },

@@ -4010,3 +4010,25 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 22:58:52.819] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [26Dec2024 22:59:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Ghost Samurai
 [26Dec2024 22:59:07.761] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[26Dec2024 23:00:33.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[26Dec2024 23:00:51.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3441ms or 68 ticks behind
+[26Dec2024 23:01:51.044] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-84, y=37, z=-277} but found not block entity block Block{minecraft:water}[level=0] at location
+[26Dec2024 23:01:51.045] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-84, y=37, z=-277}
+[26Dec2024 23:01:54.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -9.308065402175906,0.0,-3.868032090769077
+[26Dec2024 23:01:54.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7072ms or 141 ticks behind
+[26Dec2024 23:03:35.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+[26Dec2024 23:03:35.346] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[26Dec2024 23:04:44.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[26Dec2024 23:04:44.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[26Dec2024 23:04:54.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:32801] logged in with entity id 5187 at (100.64914049115168, 63.0, -460.49651414691135)
+[26Dec2024 23:04:54.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[26Dec2024 23:04:54.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[26Dec2024 23:04:54.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[26Dec2024 23:04:54.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[26Dec2024 23:04:54.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[26Dec2024 23:04:54.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[26Dec2024 23:04:54.249] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[26Dec2024 23:04:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[26Dec2024 23:05:38.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Centennial]
+[26Dec2024 23:09:10.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Not even afraid of death]
+[26Dec2024 23:09:10.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Back to childhood]
