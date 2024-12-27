@@ -6615,6 +6615,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-26 23:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-26 23:49:00 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2024-12-26 23:58:07 +0000"
@@ -6627,15 +6639,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
+  "undead_revamp2:oneskelly": {
     "criteria": {
-      "has_honeycomb": "2024-12-26 23:49:00 +0000"
+      "oneskelly_0": "2024-12-26 23:58:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "has_honeycomb": "2024-12-26 23:49:00 +0000"
+      "coded_trigger": "2024-12-27 00:04:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2024-12-27 00:08:19 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-12-27 00:09:07 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2024-12-27 00:15:56 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_gold_keeper": {
+    "criteria": {
+      "the_gold_keeper_0": "2024-12-27 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_goblin_lord_treasure_bag_advancment": {
+    "criteria": {
+      "the_goblin_lord_treasure_bag_advancment_0": "2024-12-27 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_goblin_lord_relic": {
+    "criteria": {
+      "the_goblin_lord_relic_0": "2024-12-27 04:25:35 +0000"
     },
     "done": true
   },

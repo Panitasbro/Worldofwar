@@ -2274,6 +2274,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-24 00:43:12 +0000",
+      "minecraft:skeleton": "2024-12-27 04:24:57 +0000",
       "minecraft:vindicator": "2024-12-24 00:45:53 +0000",
       "minecraft:spider": "2024-12-24 04:28:37 +0000",
       "minecraft:zombie": "2024-12-23 06:24:13 +0000",
@@ -5353,18 +5354,6 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/transportation/echo_boat": {
-    "criteria": {
-      "in_water": "2024-12-23 06:46:48 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/transportation/bloom_boat": {
-    "criteria": {
-      "in_water": "2024-12-23 06:46:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-23 06:46:48 +0000"
@@ -7285,77 +7274,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "armageddon_mod:the_gold_keeper": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
+      "the_gold_keeper_0": "2024-12-27 04:24:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "armageddon_mod:the_goblin_lord_treasure_bag_advancment": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
+      "the_goblin_lord_treasure_bag_advancment_0": "2024-12-27 04:24:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "armageddon_mod:the_goblin_lord_relic": {
     "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
+      "the_goblin_lord_relic_0": "2024-12-27 04:25:01 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-24 05:07:05 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
