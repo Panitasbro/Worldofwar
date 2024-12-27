@@ -4025,3 +4025,11 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [27Dec2024 04:25:32.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Goblin Lord Treasure Bag]
 [27Dec2024 04:25:35.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Goblin Lord Relic]
 [27Dec2024 04:26:35.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Emerald Totem]
+[27Dec2024 04:29:15.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [The Emerald Keeper]
+[27Dec2024 04:29:15.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [The Emerald Keeper]
+[27Dec2024 04:29:15.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Arion, Tyrant of the Emerald Wrath Treasure Bag]
+[27Dec2024 04:29:15.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Arion, Tyrant of the Emerald Wrath Treasure Bag]
+[27Dec2024 04:29:16.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Arion, Tyrant of the Emerald Wrath Relic]
+[27Dec2024 04:30:40.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Arion, Tyrant of the Emerald Wrath
+[27Dec2024 04:30:40.366] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[27Dec2024 04:37:44.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Builder Stone]

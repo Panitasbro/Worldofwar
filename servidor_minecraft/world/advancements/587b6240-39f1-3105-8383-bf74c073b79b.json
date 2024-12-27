@@ -7274,6 +7274,12 @@
     },
     "done": true
   },
+  "armageddon_mod:the_emerald_keeper": {
+    "criteria": {
+      "the_emerald_keeper_0": "2024-12-27 04:29:15 +0000"
+    },
+    "done": true
+  },
   "armageddon_mod:the_gold_keeper": {
     "criteria": {
       "the_gold_keeper_0": "2024-12-27 04:24:55 +0000"
@@ -7289,6 +7295,12 @@
   "armageddon_mod:the_goblin_lord_relic": {
     "criteria": {
       "the_goblin_lord_relic_0": "2024-12-27 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:arion_tyrant_ofthe_emerald_wrath_advancemnt": {
+    "criteria": {
+      "arion_tyrant_ofthe_emerald_wrath_advancemnt_0": "2024-12-27 04:29:15 +0000"
     },
     "done": true
   },
