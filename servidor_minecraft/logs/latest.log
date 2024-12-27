@@ -4070,3 +4070,12 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [26Dec2024 23:45:42.042] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [26Dec2024 23:47:32.128] [Worker-Main-12/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1428480368,1420968319,-1860773454,-692653137],type:"minecraft:entity",y_offset:0.36f}}]
 [26Dec2024 23:47:32.132] [Worker-Main-12/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-434729057,646008605,-1722651449,-165389026],type:"minecraft:entity",y_offset:0.36f}}]
+[26Dec2024 23:51:37.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[26Dec2024 23:53:23.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[26Dec2024 23:55:46.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -7.93586771136097,0.599498532469724,6.413399578518579
+[26Dec2024 23:55:46.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5461ms or 109 ticks behind
+[26Dec2024 23:56:54.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[26Dec2024 23:58:07.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Thine end is here.]
+[26Dec2024 23:58:07.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [First big catch of the month!]
+[26Dec2024 23:58:18.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[26Dec2024 23:58:21.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [One eyed big skelly]

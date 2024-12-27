@@ -2081,6 +2081,7 @@
       "minecraft:cherry_grove": "2024-12-26 23:24:33 +0000",
       "minecraft:birch_forest": "2024-12-26 23:32:05 +0000",
       "minecraft:beach": "2024-12-23 06:46:09 +0000",
+      "minecraft:sparse_jungle": "2024-12-26 23:55:34 +0000",
       "minecraft:river": "2024-12-24 02:42:24 +0000",
       "minecraft:dripstone_caves": "2024-12-24 02:41:31 +0000",
       "minecraft:forest": "2024-12-23 06:51:28 +0000",
@@ -6611,6 +6612,30 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-26 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2024-12-26 23:58:07 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-26 23:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-26 23:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-26 23:49:00 +0000"
     },
     "done": true
   },
