@@ -19102,3 +19102,111 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [27Dec2024 04:47:57.155] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-34, y:84, z:315, dim:minecraft:overworld]
 [27Dec2024 04:47:57.170] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [27Dec2024 04:48:05.904] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 04:49:33.882] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[27Dec2024 04:49:33.883] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[27Dec2024 04:51:02.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was mauled by Hera the Lame's undead
+[27Dec2024 04:51:02.547] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-19, y:83, z:356, dim:minecraft:overworld]
+[27Dec2024 04:51:02.558] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 04:51:04.376] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 04:51:30.890] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[27Dec2024 04:51:30.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:51:30.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 04:51:31.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Hera the Lame'/6279, l='ServerLevel[world]', x=-14.96, y=81.00, z=339.32] died: Hera the Lame was slain by Namikaze
+[27Dec2024 04:51:31.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [He Wasn't So Strong]
+[27Dec2024 04:56:22.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[27Dec2024 04:56:22.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[27Dec2024 04:56:30.921] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[27Dec2024 04:56:31.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:56:31.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 04:56:33.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[27Dec2024 04:56:33.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[27Dec2024 04:56:33.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[27Dec2024 04:56:33.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[27Dec2024 04:56:33.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[27Dec2024 04:56:33.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[27Dec2024 04:56:33.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[27Dec2024 04:56:33.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[27Dec2024 04:56:33.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[27Dec2024 04:56:33.156] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[27Dec2024 04:56:33.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[27Dec2024 04:56:33.164] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[27Dec2024 04:56:33.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[27Dec2024 04:56:33.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[27Dec2024 04:56:33.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[27Dec2024 04:56:33.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[27Dec2024 04:56:33.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[27Dec2024 04:56:33.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[27Dec2024 04:56:33.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[27Dec2024 04:56:33.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[27Dec2024 04:56:33.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[27Dec2024 04:56:33.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[27Dec2024 04:56:33.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[27Dec2024 04:56:33.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[27Dec2024 04:56:35.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[27Dec2024 04:56:46.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[27Dec2024 04:57:03.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:animal_den/wolf_den
+[27Dec2024 04:57:03.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6
+[27Dec2024 04:57:15.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[27Dec2024 04:58:08.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[27Dec2024 04:58:08.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[27Dec2024 04:59:12.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[27Dec2024 04:59:27.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[27Dec2024 05:00:07.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[27Dec2024 05:00:14.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of idas:cottage/cottage
+[27Dec2024 05:00:14.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[27Dec2024 05:00:14.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[27Dec2024 05:00:14.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[27Dec2024 05:00:14.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[27Dec2024 05:00:14.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[27Dec2024 05:00:14.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Dark Metallurgy]
+[27Dec2024 05:00:20.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Hollow Soldier
+[27Dec2024 05:00:20.197] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:-303, y:138, z:496, dim:minecraft:overworld]
+[27Dec2024 05:00:20.216] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[27Dec2024 05:00:22.820] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[27Dec2024 05:00:37.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/8788, l='ServerLevel[world]', x=-288.91, y=160.85, z=431.09] died: Honeyed Archer was slain by Dread Hound
+[27Dec2024 05:00:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
+[27Dec2024 05:01:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was crushed by a falling tree
+[27Dec2024 05:01:16.608] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-258, y:159, z:419, dim:minecraft:overworld]
+[27Dec2024 05:01:16.618] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 05:01:20.358] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 05:01:30.889] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[27Dec2024 05:01:30.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:01:31.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:01:36.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Good Demoman]
+[27Dec2024 05:02:35.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
+[27Dec2024 05:02:43.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[27Dec2024 05:02:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Namikaze
+[27Dec2024 05:02:46.758] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:-250, y:156, z:430, dim:minecraft:overworld]
+[27Dec2024 05:02:46.770] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[27Dec2024 05:02:48.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by The Hunter
+[27Dec2024 05:02:48.134] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-250, y:157, z:427, dim:minecraft:overworld]
+[27Dec2024 05:02:48.172] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 05:02:49.213] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[27Dec2024 05:02:50.054] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 05:03:44.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [The Wind Darkening]
+[27Dec2024 05:04:12.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Bone Crusher]
+[27Dec2024 05:04:22.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was crushed by a falling tree whilst fighting Darkgospel
+[27Dec2024 05:04:22.252] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-284, y:158, z:409, dim:minecraft:overworld]
+[27Dec2024 05:04:22.261] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 05:04:24.550] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 05:06:23.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Lifestealer
+[27Dec2024 05:06:23.668] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-269, y:159, z:412, dim:minecraft:overworld]
+[27Dec2024 05:06:23.679] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 05:06:24.964] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 05:06:30.952] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[27Dec2024 05:06:31.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:06:31.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:06:41.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Well, that was disgusting]
+[27Dec2024 05:06:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Lifestealer
+[27Dec2024 05:06:44.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-293, y:162, z:435, dim:minecraft:overworld]
+[27Dec2024 05:06:44.999] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 05:06:46.118] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 05:07:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Lifestealer
+[27Dec2024 05:07:00.546] [Server thread/DEBUG] [tombstone/]: A new grave of the player Darkgospel was created at position [x:-334, y:160, z:431, dim:minecraft:overworld]
+[27Dec2024 05:07:00.560] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[27Dec2024 05:07:02.163] [Server thread/DEBUG] [twilightforest/]: Player Darkgospel (c00740e2-021d-3b0d-9f33-44ad59636721) respawned and received items held in storage
+[27Dec2024 05:07:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Lifestealer
+[27Dec2024 05:07:05.000] [Server thread/DEBUG] [tombstone/]: A new grave of the player Namikaze was created at position [x:-327, y:161, z:429, dim:minecraft:overworld]
+[27Dec2024 05:07:05.040] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[27Dec2024 05:07:06.409] [Server thread/DEBUG] [twilightforest/]: Player Namikaze (587b6240-39f1-3105-8383-bf74c073b79b) respawned and received items held in storage
+[27Dec2024 05:07:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Eye of Darkness]

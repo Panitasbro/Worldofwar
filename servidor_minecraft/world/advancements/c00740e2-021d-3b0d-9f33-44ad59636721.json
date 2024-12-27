@@ -6675,9 +6675,21 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/aquaflora": {
+    "criteria": {
+      "has_item": "2024-12-27 05:01:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-27 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-27 04:57:52 +0000"
     },
     "done": true
   },
@@ -6690,6 +6702,12 @@
   "armageddon_mod:the_gold_keeper": {
     "criteria": {
       "the_gold_keeper_0": "2024-12-27 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-27 04:47:23 +0000"
     },
     "done": true
   },
@@ -6717,6 +6735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-27 05:01:42 +0000"
+    },
+    "done": true
+  },
   "armageddon_mod:arion_relic_advancement": {
     "criteria": {
       "arion_relic_advancement_0": "2024-12-27 04:29:16 +0000"
@@ -6738,6 +6762,12 @@
   "swem:recipes/decorations/rack_blanket_5": {
     "criteria": {
       "has_stone": "2024-12-27 04:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 04:57:52 +0000"
     },
     "done": true
   },
