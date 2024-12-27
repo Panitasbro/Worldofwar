@@ -7286,9 +7286,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-27 04:41:17 +0000"
+    },
+    "done": true
+  },
   "armageddon_mod:the_goblin_lord_treasure_bag_advancment": {
     "criteria": {
       "the_goblin_lord_treasure_bag_advancment_0": "2024-12-27 04:24:55 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:eldorath_treasure_bag_advancmenet": {
+    "criteria": {
+      "eldorath_treasure_bag_advancmenet_0": "2024-12-27 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:eldorath_relic_advancement": {
+    "criteria": {
+      "eldorath_relic_advancement_0": "2024-12-27 04:45:48 +0000"
     },
     "done": true
   },
@@ -7298,9 +7316,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-27 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:the_diamond_keeper": {
+    "criteria": {
+      "the_diamond_keeper_0": "2024-12-27 04:45:46 +0000"
+    },
+    "done": true
+  },
   "armageddon_mod:arion_tyrant_ofthe_emerald_wrath_advancemnt": {
     "criteria": {
       "arion_tyrant_ofthe_emerald_wrath_advancemnt_0": "2024-12-27 04:29:15 +0000"
+    },
+    "done": true
+  },
+  "armageddon_mod:overworld_conqueror": {
+    "criteria": {
+      "overworld_conqueror_0": "2024-12-27 04:45:46 +0000"
     },
     "done": true
   },
