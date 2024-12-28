@@ -5408,3 +5408,181 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 06:28:16.014] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
 [28Dec2024 06:28:25.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Arion, Tyrant of the Emerald Wrath
 [28Dec2024 06:28:25.196] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 06:31:25.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Arion, Tyrant of the Emerald Wrath
+[28Dec2024 06:31:25.344] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:34:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE died
+[28Dec2024 06:34:52.120] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:36:00.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Arion, Tyrant of the Emerald Wrath
+[28Dec2024 06:36:00.200] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:37:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel died
+[28Dec2024 06:37:18.292] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 06:38:05.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Arion, Tyrant of the Emerald Wrath
+[28Dec2024 06:38:05.348] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:38:10.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Dec2024 06:39:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel died
+[28Dec2024 06:39:00.694] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 06:39:06.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[28Dec2024 06:40:13.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Darkgospel
+[28Dec2024 06:40:13.949] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:40:18.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 06:40:18.851] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:40:25.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[28Dec2024 06:40:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has completed the challenge [The Emerald Keeper]
+[28Dec2024 06:40:40.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Arion, Tyrant of the Emerald Wrath Treasure Bag]
+[28Dec2024 06:40:42.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Arion, Tyrant of the Emerald Wrath Relic]
+[28Dec2024 06:40:47.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Arion, Tyrant of the Emerald Wrath Relic]
+[28Dec2024 06:42:40.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Neighborhood Brawl]
+[28Dec2024 06:43:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by The Royal
+[28Dec2024 06:43:41.659] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:43:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 06:43:42.509] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:43:43.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Strike upon thee]
+[28Dec2024 06:43:49.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Dec2024 06:45:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[28Dec2024 06:45:52.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported DIEGUITE to Darkgospel]
+[28Dec2024 06:46:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Darkgospel
+[28Dec2024 06:46:40.521] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:47:06.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported DIEGUITE to Darkgospel]
+[28Dec2024 06:47:17.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Yo mama so fat, she digests her fetuses]
+[28Dec2024 06:47:30.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Sweet Dreams]
+[28Dec2024 06:47:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Spriggan
+[28Dec2024 06:47:34.509] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:47:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[28Dec2024 06:50:31.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was impaled on a stalagmite whilst fighting Namikaze
+[28Dec2024 06:50:31.860] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:52:16.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was doomed to fall by Eldorath the Ancient Builder
+[28Dec2024 06:52:16.606] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 06:52:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was shot by Namikaze
+[28Dec2024 06:52:22.208] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:53:02.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Namikaze
+[28Dec2024 06:53:02.021] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:53:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was obliterated by a sonically-charged shriek whilst trying to escape DIEGUITE
+[28Dec2024 06:53:55.105] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:54:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was impaled on a stalagmite whilst fighting Namikaze
+[28Dec2024 06:54:39.053] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:54:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Created team [Lospitudos]]
+[28Dec2024 06:55:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Added 3 members to team [Lospitudos]]
+[28Dec2024 06:55:25.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Updated the color for team [Lospitudos] to light_purple]
+[28Dec2024 06:55:35.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Updated the color for team [Lospitudos] to dark_purple]
+[28Dec2024 06:55:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Disabled friendly fire for team [Lospitudos]]
+[28Dec2024 06:56:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Enabled friendly fire for team [Lospitudos]]
+[28Dec2024 06:56:34.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Darkgospel
+[28Dec2024 06:56:34.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIEGUITE moved wrongly!
+[28Dec2024 06:56:34.438] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:56:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 06:56:42.846] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:56:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Disabled friendly fire for team [Lospitudos]]
+[28Dec2024 07:00:28.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Eldorath the Ancient Builder
+[28Dec2024 07:00:28.752] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:01:28.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was doomed to fall by Eldorath the Ancient Builder
+[28Dec2024 07:01:28.148] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 07:02:03.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Dark Metallurgy]
+[28Dec2024 07:02:03.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Piece of Chaos]
+[28Dec2024 07:02:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Monster Hunter]
+[28Dec2024 07:02:39.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Spider
+[28Dec2024 07:02:39.473] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:03:58.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Wind Darkening]
+[28Dec2024 07:04:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by The Wheezer
+[28Dec2024 07:04:10.500] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 07:04:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has completed the challenge [The Diamond Keeper]
+[28Dec2024 07:04:32.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [Overworld Conqueror]
+[28Dec2024 07:04:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Eldorath the Ancient Builder's Treasure Bag]
+[28Dec2024 07:04:34.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Eldorath the Ancient Builder Relic]
+[28Dec2024 07:05:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Eldorath the Ancient Builder
+[28Dec2024 07:05:09.700] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 07:07:33.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Titan's Insigna]
+[28Dec2024 07:08:01.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Elvenite Paladin
+[28Dec2024 07:08:01.052] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:09:55.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Elvenite Keeper]
+[28Dec2024 07:09:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [The Elvenite Keeper]
+[28Dec2024 07:09:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [The Elvenite Keeper]
+[28Dec2024 07:09:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Elvenite Paladin Relic]
+[28Dec2024 07:09:55.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Elvenite Paladin's Treasure Bag]
+[28Dec2024 07:09:55.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [The Elvenite Paladin's Treasure Bag]
+[28Dec2024 07:10:07.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [The Elvenite Paladin's Treasure Bag]
+[28Dec2024 07:10:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Enabled friendly fire for team [Lospitudos]]
+[28Dec2024 07:12:17.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Namikaze
+[28Dec2024 07:12:17.243] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:13:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was doomed to fall by Elvenite Paladin
+[28Dec2024 07:13:31.161] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:13:31.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Darkgospel
+[28Dec2024 07:13:31.865] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:14:32.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Disabled friendly fire for team [Lospitudos]]
+[28Dec2024 07:14:54.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Elvenite Paladin
+[28Dec2024 07:14:54.277] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 07:15:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was killed by magic whilst trying to escape Centaur
+[28Dec2024 07:15:31.697] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:16:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Elvenite Paladin
+[28Dec2024 07:16:28.633] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:17:28.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[28Dec2024 07:19:05.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Minotaurus
+[28Dec2024 07:19:06.009] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 07:19:38.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Minotaurus
+[28Dec2024 07:19:38.845] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:22:16.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Minotaurus
+[28Dec2024 07:22:16.199] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:22:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Minotaurus
+[28Dec2024 07:22:59.560] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:23:26.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -217.35545024165242,72.0,32.29233269730969
+[28Dec2024 07:24:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Hollow Soldier
+[28Dec2024 07:24:05.568] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:24:19.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Hollow Soldier
+[28Dec2024 07:24:19.901] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:24:22.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Hollow Soldier
+[28Dec2024 07:24:22.295] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:24:59.439] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/92524, l='ServerLevel[world]', x=-308.32, y=155.85, z=399.62] died: Honeyed Archer was slain by Dread Hound
+[28Dec2024 07:25:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Skeleton
+[28Dec2024 07:25:21.956] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:26:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE fell from a high place
+[28Dec2024 07:26:00.209] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:27:28.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Mite's nest]
+[28Dec2024 07:28:03.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Mite's nest]
+[28Dec2024 07:28:28.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:28:28.757] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:28:55.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:28:55.423] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:29:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:29:03.864] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:29:12.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:29:12.606] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:29:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Endermite Guard
+[28Dec2024 07:29:25.353] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:29:27.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:29:27.219] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:30:00.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Endermite Guard
+[28Dec2024 07:30:00.768] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:30:58.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:30:58.288] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:31:43.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Endermite Guard
+[28Dec2024 07:31:43.838] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:31:59.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:31:59.863] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:32:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Endermite Guard
+[28Dec2024 07:32:01.566] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:33:34.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Shape of My Heart]
+[28Dec2024 07:33:38.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was killed by Arachne using magic
+[28Dec2024 07:33:38.102] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:34:26.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Arachne
+[28Dec2024 07:34:26.580] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:34:30.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was blown up by Creeper
+[28Dec2024 07:34:30.370] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:35:12.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Bone Knight
+[28Dec2024 07:35:12.958] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:35:26.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Alex's Caves]
+[28Dec2024 07:35:37.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Bone Knight
+[28Dec2024 07:35:38.015] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:35:48.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Bone Knight
+[28Dec2024 07:35:48.740] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:36:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Bone Knight
+[28Dec2024 07:36:20.286] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:36:39.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Deathword
+[28Dec2024 07:36:39.045] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:36:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Skeleton
+[28Dec2024 07:36:52.360] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:37:00.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Skeleton
+[28Dec2024 07:37:00.209] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 07:37:12.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Skeleton
+[28Dec2024 07:37:12.256] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:39:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Deceived Hopes]
+[28Dec2024 07:41:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:41:25.058] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
