@@ -4660,3 +4660,116 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 03:44:41.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
 [28Dec2024 03:44:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Become a Mahou Tsukai!]
 [28Dec2024 03:44:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Magic Writing]
+[28Dec2024 03:46:48.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[28Dec2024 03:47:05.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[28Dec2024 03:49:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to -798.000000, 111.000000, 845.000000]
+[28Dec2024 03:50:02.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[28Dec2024 03:50:35.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17971ms or 359 ticks behind
+[28Dec2024 03:51:13.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 8.73682801443033,0.0,-5.395090168013894
+[28Dec2024 03:51:13.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.165736084092941,0.0,-5.765591777373288
+[28Dec2024 03:51:13.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.60379193777203,0.0,-6.138676066470225
+[28Dec2024 03:51:13.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.046742588291181,0.0,-6.513142296001774
+[28Dec2024 03:51:13.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.492312347007669,0.0,-6.888347974306839
+[28Dec2024 03:51:13.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.939283538301197,0.0,-7.263949316907656
+[28Dec2024 03:51:27.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.936621970315286,0.0,-2.9348105614420774
+[28Dec2024 03:51:27.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.44326694344943,0.0,-3.2278902171580057
+[28Dec2024 03:51:27.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.949869020863957,0.0,-3.5210927582293152
+[28Dec2024 03:51:27.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.498120277593898,0.0,-3.6949812232805925
+[28Dec2024 03:51:27.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 12.06865717978053,0.0,-3.8050271051196205
+[28Dec2024 03:51:27.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 12.651118686523205,0.0,-3.8809120935654846
+[28Dec2024 03:51:27.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 13.239960811412857,0.0,-3.9385182690514284
+[28Dec2024 03:51:27.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 13.832217077857194,0.0,-3.98634381616273
+[28Dec2024 03:51:29.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 39033ms or 780 ticks behind
+[28Dec2024 03:51:34.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.27717858566126097
+[28Dec2024 03:51:34.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.752992460034761,1.5510576895623984,-2.1959553637070712
+[28Dec2024 03:51:34.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.035473118386165,1.2615077906826428,-2.2854322387503316
+[28Dec2024 03:51:34.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.310940022134275,1.0,-2.3788658642811242
+[28Dec2024 03:51:34.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.792107867678226,1.0,-2.5985714346064697
+[28Dec2024 03:51:34.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.285077642078363,0.9231679985046384,-2.852512965506662
+[28Dec2024 03:51:34.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.396484375
+[28Dec2024 03:51:51.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7731ms or 154 ticks behind
+[28Dec2024 03:51:55.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.408835732897444,0.0,-4.4678491285493465
+[28Dec2024 03:51:55.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.884447480416611,0.0,-4.791722099492858
+[28Dec2024 03:51:55.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.393137651125812,0.0,-5.062208825739958
+[28Dec2024 03:51:55.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.919527426571392,0.0,-5.304129636856942
+[28Dec2024 03:51:55.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.455387907619354,0.0,-5.5307653963307075
+[28Dec2024 03:51:55.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.99631597440964,0.0,-5.749222429421252
+[28Dec2024 03:51:55.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 12.539955605293926,0.0,-5.963303189090311
+[28Dec2024 03:51:55.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 13.085046140062104,0.0,-6.17504229210499
+[28Dec2024 03:51:55.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 13.630913024570702,0.0,-6.385528421331514
+[28Dec2024 03:52:01.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.822893429994451,0.0,-3.7556078861014157
+[28Dec2024 03:52:01.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.369653708645274,0.0,-3.964651914619367
+[28Dec2024 03:52:01.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.916414039814356,0.0,-4.173695963216687
+[28Dec2024 03:52:01.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.463174399084892,0.0,-4.382740022558096
+[28Dec2024 03:52:01.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 12.00993477339199,0.0,-4.591784087648421
+[28Dec2024 03:52:01.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 12.55669515574482,0.0,-4.800828155814884
+[28Dec2024 03:52:01.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 13.103455542402742,0.0,-5.009872225627419
+[28Dec2024 03:52:01.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 13.650215931364244,1.0,-5.218916296320685
+[28Dec2024 03:52:07.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 5.650728222591226,6.0,-6.164168601390088
+[28Dec2024 03:52:07.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 6.054350675238879,6.0,-6.604467961033038
+[28Dec2024 03:52:07.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 6.457973127412629,6.0,-7.044767321441668
+[28Dec2024 03:52:07.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 6.861595579332743,7.0,-7.485066682259912
+[28Dec2024 03:52:07.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 7.331765713278628,7.0,-7.817850848437274
+[28Dec2024 03:52:07.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 7.837544185058846,7.0,-8.093105777584015
+[28Dec2024 03:52:07.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 8.362375968460526,7.0,-8.337577959004875
+[28Dec2024 03:52:07.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 8.897402799028782,7.0,-8.565578905859411
+[28Dec2024 03:52:07.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.437884796068602,7.0,-8.784766423498468
+[28Dec2024 03:52:07.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 9.981285743923081,7.0,-8.999238050885197
+[28Dec2024 03:52:07.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 10.526248564160824,7.0,-9.211186299422593
+[28Dec2024 03:52:07.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.072047111170491,7.0,-9.421784338248472
+[28Dec2024 03:52:07.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 11.618292838913248,6.923167998504638,-9.63165990677794
+[28Dec2024 03:52:07.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.3439937419283865
+[28Dec2024 03:52:07.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 3.043230978379654
+[28Dec2024 03:52:07.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 2.520810930829896
+[28Dec2024 03:52:07.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 1.9870745720311334
+[28Dec2024 03:52:07.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 1.4472830807059722
+[28Dec2024 03:52:08.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 1.3463520261539657
+[28Dec2024 03:52:08.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 1.3463520261539657
+[28Dec2024 03:52:08.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 1.0286771348141883
+[28Dec2024 03:52:08.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.719954677823921
+[28Dec2024 03:52:08.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.4192160020166966
+[28Dec2024 03:52:15.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 0.18827427004606534,0.0,-10.53024823181056
+[28Dec2024 03:52:15.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 0.193939387146969,0.0,-11.09300319406043
+[28Dec2024 03:52:15.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 0.3240149029428778,0.0,-11.634794051069434
+[28Dec2024 03:52:15.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 0.5318444257290764,0.0,-12.159122554548844
+[28Dec2024 03:52:15.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 0.7812785674081226,-0.07683200149536162,-12.674107300816331
+[28Dec2024 03:52:15.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 0.9285686742113057,-0.2274534586630068,-12.973108072659784
+[28Dec2024 03:52:16.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9469ms or 189 ticks behind
+[28Dec2024 03:52:28.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 4.751966335264456,-1.5110387506543503,-8.70143724320559
+[28Dec2024 03:52:28.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 4.832396168435963,-1.7725465413369932,-9.000648033084872
+[28Dec2024 03:52:28.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 4.94846335337283,-1.7725465413369932,-9.53599339427916
+[28Dec2024 03:52:28.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 5.054908447549877,-1.7725465413369932,-10.090955194508979
+[28Dec2024 03:52:28.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 5.156204952805155,-1.7725465413369932,-10.65641336015716
+[28Dec2024 03:52:28.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 5.254746550780169,-1.7725465413369932,-11.227487921665727
+[28Dec2024 03:52:28.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved too quickly! 5.351814052796442,-1.7725465413369932,-11.801567704620311
+[28Dec2024 03:52:41.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.2532238522791772
+[28Dec2024 03:52:41.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.6419427391740555
+[28Dec2024 03:52:55.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.277696301613247
+[28Dec2024 03:52:55.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.6191903332425568
+[28Dec2024 03:52:55.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.52521588378454
+[28Dec2024 03:52:55.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.27636759041905634
+[28Dec2024 03:52:55.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Darkgospel) moved wrongly! 0.7006139682960111
+[28Dec2024 03:53:24.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[28Dec2024 03:53:58.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19868ms or 397 ticks behind
+[28Dec2024 03:54:13.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/28438, l='ServerLevel[world]', x=-827.59, y=98.00, z=747.28] died, message: 'Butcher was slain by Zombie Bruiser'
+[28Dec2024 03:54:27.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.55738785623305,0.0,-3.031047801620957
+[28Dec2024 03:54:29.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15424ms or 308 ticks behind
+[28Dec2024 03:54:51.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7152ms or 143 ticks behind
+[28Dec2024 03:55:17.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11397ms or 227 ticks behind
+[28Dec2024 03:55:37.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4621ms or 92 ticks behind
+[28Dec2024 03:55:57.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5423ms or 108 ticks behind
+[28Dec2024 03:56:18.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[28Dec2024 03:56:39.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5975ms or 119 ticks behind
+[28Dec2024 03:56:59.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5603ms or 112 ticks behind
