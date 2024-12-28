@@ -5322,3 +5322,26 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 06:00:13.144] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [slu:slu] rejected their client side version number
 [28Dec2024 06:00:13.145] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [28Dec2024 06:00:13.188] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6db6de9f[id=<null>,name=DIEGUITE,properties={},legacy=false] (/127.233.103.112:54945) lost connection: Connection closed - mismatched mod channel list
+[28Dec2024 06:01:35.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35c8bbd2[id=<null>,name=DIEGUITE,properties={},legacy=false] (/127.233.103.112:51807) lost connection: Disconnected
+[28Dec2024 06:02:59.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 06:02:59.303] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:03:10.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIEGUITE[/127.233.103.112:49255] logged in with entity id 74095 at (-31.246268479690187, 85.0, 303.5)
+[28Dec2024 06:03:10.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DIEGUITE
+[28Dec2024 06:03:10.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DIEGUITE
+[28Dec2024 06:03:10.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DIEGUITE
+[28Dec2024 06:03:10.609] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DIEGUITE
+[28Dec2024 06:03:10.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DIEGUITE
+[28Dec2024 06:03:10.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DIEGUITE
+[28Dec2024 06:03:10.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DIEGUITE
+[28Dec2024 06:03:10.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE joined the game
+[28Dec2024 06:06:09.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Mutual Aid]
+[28Dec2024 06:06:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Death Will Not Be Enough]
+[28Dec2024 06:09:54.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Namikaze
+[28Dec2024 06:09:55.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Your First Grave]
+[28Dec2024 06:09:55.010] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:09:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [The Most Useful Key]
+[28Dec2024 06:10:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Knowledge of Death]
+[28Dec2024 06:10:35.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [A Fast Comeback]
+[28Dec2024 06:10:42.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [Here They Come]
+[28Dec2024 06:10:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Beatrice the Doctor
+[28Dec2024 06:10:45.508] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
