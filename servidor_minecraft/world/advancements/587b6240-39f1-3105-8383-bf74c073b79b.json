@@ -2282,6 +2282,7 @@
       "minecraft:vindicator": "2024-12-24 00:45:53 +0000",
       "minecraft:spider": "2024-12-24 04:28:37 +0000",
       "minecraft:creeper": "2024-12-27 05:03:21 +0000",
+      "minecraft:husk": "2024-12-28 03:14:39 +0000",
       "minecraft:zombie": "2024-12-23 06:24:13 +0000",
       "minecraft:zombie_villager": "2024-12-23 06:13:27 +0000"
     },
@@ -8059,11 +8060,23 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "requirement": "2024-12-28 03:13:43 +0000"
+      "has_gold_backpack": "2024-12-28 03:06:33 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-28 03:10:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2024-12-28 03:11:17 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
@@ -8077,13 +8090,13 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_gold_backpack": "2024-12-28 03:06:33 +0000"
+      "has_bone_meal": "2024-12-28 03:11:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-28 03:11:18 +0000"
     },
@@ -8095,21 +8108,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pedestal": {
+  "stellarity:nether/imbuements": {
     "criteria": {
-      "has_stone_brick_slab": "2024-12-28 03:11:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-28 03:10:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2024-12-28 03:11:18 +0000"
+      "criteria": "2024-12-28 03:19:22 +0000"
     },
     "done": true
   },

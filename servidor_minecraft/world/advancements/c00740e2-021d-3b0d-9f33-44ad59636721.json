@@ -7073,5 +7073,23 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2024-12-28 03:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-28 03:19:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
