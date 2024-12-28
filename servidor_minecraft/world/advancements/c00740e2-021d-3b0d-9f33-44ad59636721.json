@@ -7073,6 +7073,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-28 03:35:27 +0000"
+    },
+    "done": false
+  },
   "legendary_monsters:locate_cloudy_temple": {
     "criteria": {
       "cloudy_temple": "2024-12-28 03:17:10 +0000"
@@ -7088,6 +7094,18 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-28 03:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-28 03:27:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-28 03:32:06 +0000"
     },
     "done": true
   },
