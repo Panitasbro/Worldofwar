@@ -4773,3 +4773,44 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 03:56:18.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
 [28Dec2024 03:56:39.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5975ms or 119 ticks behind
 [28Dec2024 03:56:59.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5603ms or 112 ticks behind
+[28Dec2024 03:57:24.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 8.66665768297879,-1.0554624345250403,-5.295716568899252
+[28Dec2024 03:57:25.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10457ms or 209 ticks behind
+[28Dec2024 03:57:37.984] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[28Dec2024 03:57:37.984] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[28Dec2024 03:57:43.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 9.858060856657993,2.0554624345250403,2.0016699519812846
+[28Dec2024 03:57:43.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[28Dec2024 03:58:04.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6281ms or 125 ticks behind
+[28Dec2024 03:58:20.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Enchanting Tower]
+[28Dec2024 03:58:22.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
+[28Dec2024 03:58:41.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Strong or Careful]
+[28Dec2024 03:58:41.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was eviscerated by Archevoker's vexes
+[28Dec2024 03:58:41.338] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 03:58:49.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[28Dec2024 03:59:30.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -408.0389412077269,80.0,19.152732198902413
+[28Dec2024 04:03:00.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -314.982158719228,73.0,137.201914996305
+[28Dec2024 04:04:55.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 52.6563776375325,102.0,242.37215618854
+[28Dec2024 04:09:33.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to -55.000000, 95.000000, 682.000000]
+[28Dec2024 04:09:38.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[28Dec2024 04:09:58.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[28Dec2024 04:10:28.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[28Dec2024 04:11:09.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[28Dec2024 04:11:45.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[28Dec2024 04:12:03.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3959ms or 79 ticks behind
+[28Dec2024 04:12:11.679] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[28Dec2024 04:12:11.680] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[28Dec2024 04:12:21.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[28Dec2024 04:12:41.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
+[28Dec2024 04:13:00.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Dec2024 04:13:22.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6327ms or 126 ticks behind
+[28Dec2024 04:13:40.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[28Dec2024 04:14:02.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[28Dec2024 04:14:34.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
+[28Dec2024 04:14:52.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[28Dec2024 04:15:09.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[28Dec2024 04:15:26.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[28Dec2024 04:15:44.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[28Dec2024 04:16:03.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[28Dec2024 04:16:29.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[28Dec2024 04:16:47.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3215ms or 64 ticks behind
+[28Dec2024 04:17:10.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
+[28Dec2024 04:17:28.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
