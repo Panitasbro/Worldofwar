@@ -2085,6 +2085,7 @@
       "minecraft:river": "2024-12-28 03:09:54 +0000",
       "minecraft:dripstone_caves": "2024-12-24 04:22:57 +0000",
       "minecraft:forest": "2024-12-23 06:52:17 +0000",
+      "minecraft:ocean": "2024-12-28 05:52:50 +0000",
       "minecraft:flower_forest": "2024-12-28 03:09:59 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 03:33:44 +0000",
       "minecraft:meadow": "2024-12-28 03:11:10 +0000",
@@ -2290,6 +2291,7 @@
       "minecraft:husk": "2024-12-28 03:14:39 +0000",
       "minecraft:vex": "2024-12-28 03:39:02 +0000",
       "minecraft:zombie": "2024-12-23 06:24:13 +0000",
+      "minecraft:drowned": "2024-12-28 05:51:09 +0000",
       "minecraft:zombie_villager": "2024-12-23 06:13:27 +0000"
     },
     "done": false
@@ -8354,9 +8356,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-28 05:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-28 05:53:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-28 05:44:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
     },
     "done": true
   },
@@ -8366,15 +8392,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-28 05:53:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-28 05:51:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2024-12-28 05:33:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-28 05:51:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-28 05:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
   "idas:witches_treestump": {
     "criteria": {
       "in_witches_treestump": "2024-12-28 05:33:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
     },
     "done": true
   },
@@ -8396,9 +8512,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-28 05:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-28 05:49:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-28 05:50:51 +0000"
+    },
+    "done": true
+  },
   "mahoutsukai:root": {
     "criteria": {
       "mahoutsukai": "2024-12-28 05:39:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-28 05:49:36 +0000"
     },
     "done": true
   },

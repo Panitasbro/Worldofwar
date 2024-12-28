@@ -5304,3 +5304,21 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 05:42:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE left the game
 [28Dec2024 05:43:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [Village Defender]
 [28Dec2024 05:44:12.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Knowledge raises the soul]
+[28Dec2024 05:50:14.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Dec2024 05:50:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [It Belongs in a Museum]
+[28Dec2024 05:56:42.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[28Dec2024 05:57:00.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3820ms or 76 ticks behind
+[28Dec2024 05:57:19.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[28Dec2024 05:57:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [The Lighthouse]
+[28Dec2024 05:57:36.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[28Dec2024 05:57:58.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[28Dec2024 05:58:00.559] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/72769, l='ServerLevel[world]', x=101.50, y=57.00, z=-466.50]
+[28Dec2024 05:58:42.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[28Dec2024 05:58:59.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 05:58:59.781] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 05:59:41.353] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [slu:slu] rejected their client side version number
+[28Dec2024 05:59:41.354] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Dec2024 05:59:41.391] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@106b0ff[id=<null>,name=DIEGUITE,properties={},legacy=false] (/127.233.103.112:44577) lost connection: Connection closed - mismatched mod channel list
+[28Dec2024 06:00:13.144] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [slu:slu] rejected their client side version number
+[28Dec2024 06:00:13.145] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[28Dec2024 06:00:13.188] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6db6de9f[id=<null>,name=DIEGUITE,properties={},legacy=false] (/127.233.103.112:54945) lost connection: Connection closed - mismatched mod channel list
