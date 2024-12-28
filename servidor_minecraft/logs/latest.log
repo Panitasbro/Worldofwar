@@ -5345,3 +5345,38 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 06:10:42.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [Here They Come]
 [28Dec2024 06:10:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Beatrice the Doctor
 [28Dec2024 06:10:45.508] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:10:48.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Beatrice the Doctor'/75021, l='ServerLevel[world]', x=51.59, y=84.00, z=317.53] died: Beatrice the Doctor was slain by Darkgospel
+[28Dec2024 06:10:50.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[28Dec2024 06:10:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [Discreet Search]
+[28Dec2024 06:10:53.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [He Wasn't So Strong]
+[28Dec2024 06:10:54.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [+PARRY]
+[28Dec2024 06:11:50.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DIEGUITE> GEYS
+[28Dec2024 06:12:36.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [How the Turn Tables]
+[28Dec2024 06:12:59.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [How the Turn Tables]
+[28Dec2024 06:13:39.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement ['X' Marks the Spot]
+[28Dec2024 06:13:59.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Isn't It Iron Pick]
+[28Dec2024 06:13:59.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Apothic Affixes]
+[28Dec2024 06:13:59.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [I Found It Underground]
+[28Dec2024 06:15:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by The Iron Colossus
+[28Dec2024 06:15:19.796] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:15:43.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [Chain Death]
+[28Dec2024 06:15:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by The Iron Colossus
+[28Dec2024 06:15:43.647] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:15:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Harpy
+[28Dec2024 06:15:48.013] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 06:16:24.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by The Iron Colossus
+[28Dec2024 06:16:24.744] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:16:55.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Stone Age]
+[28Dec2024 06:16:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by The Gobelin Lord
+[28Dec2024 06:16:56.545] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:17:31.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has completed the challenge [The Iron Keeper]
+[28Dec2024 06:17:31.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [The Iron Colossus Treasure Bag]
+[28Dec2024 06:17:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [The Iron Colossus Relic]
+[28Dec2024 06:18:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Darkgospel
+[28Dec2024 06:18:46.454] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:19:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE blew up
+[28Dec2024 06:19:11.980] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:19:56.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE was slain by Darkgospel
+[28Dec2024 06:19:56.607] [Server thread/INFO] [tombstone/]: The player DIEGUITE has successfully been saved
+[28Dec2024 06:20:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was blown up by The Gobelin Lord
+[28Dec2024 06:20:05.861] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved

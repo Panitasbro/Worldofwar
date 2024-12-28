@@ -7099,6 +7099,12 @@
     },
     "done": true
   },
+  "supplementaries:husbandry/turn_table": {
+    "criteria": {
+      "unlock": "2024-12-28 06:12:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-28 04:19:16 +0000"
@@ -7471,6 +7477,12 @@
     },
     "done": true
   },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2024-12-28 06:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 04:05:33 +0000"
@@ -7714,6 +7726,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-28 06:10:53 +0000"
     },
     "done": true
   },
