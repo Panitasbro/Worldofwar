@@ -4859,3 +4859,73 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 04:38:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Voluntary Exile]
 [28Dec2024 04:53:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Good Demoman]
 [28Dec2024 04:53:34.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Explosive Temper]
+[28Dec2024 04:59:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 04:59:56.614] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 05:00:06.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[28Dec2024 05:00:38.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [A Throwaway Joke]
+[28Dec2024 05:01:01.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Darkgospel
+[28Dec2024 05:01:01.151] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 05:01:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [The Secrets of Enchanting]
+[28Dec2024 05:03:22.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[28Dec2024 05:03:22.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[28Dec2024 05:03:35.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:41679] logged in with entity id 50103 at (-272.95881415956563, 160.0, 424.0307151832523)
+[28Dec2024 05:03:35.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[28Dec2024 05:03:35.287] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[28Dec2024 05:03:35.288] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[28Dec2024 05:03:35.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[28Dec2024 05:03:35.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[28Dec2024 05:03:35.307] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[28Dec2024 05:03:35.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[28Dec2024 05:03:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[28Dec2024 05:03:38.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[28Dec2024 05:03:40.783] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[28Dec2024 05:03:40.784] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[28Dec2024 05:04:53.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Kicked Namikaze: Kicked by an operator]
+[28Dec2024 05:04:53.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Kicked by an operator
+[28Dec2024 05:04:53.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[28Dec2024 05:05:07.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:44411] logged in with entity id 50556 at (-310.7524322435457, 162.0, 446.3214911567395)
+[28Dec2024 05:05:07.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[28Dec2024 05:05:07.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[28Dec2024 05:05:07.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[28Dec2024 05:05:07.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[28Dec2024 05:05:07.336] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[28Dec2024 05:05:07.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[28Dec2024 05:05:07.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[28Dec2024 05:05:07.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[28Dec2024 05:05:14.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[28Dec2024 05:08:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Enchanter]
+[28Dec2024 05:11:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel blew up
+[28Dec2024 05:11:34.845] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[28Dec2024 05:12:58.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Enchanter]
+[28Dec2024 05:14:29.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[28Dec2024 05:14:29.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[28Dec2024 05:15:26.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIEGUITE[/127.233.103.112:35085] logged in with entity id 54295 at (-37.5, 84.0, 244.5)
+[28Dec2024 05:15:26.340] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DIEGUITE
+[28Dec2024 05:15:26.344] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DIEGUITE
+[28Dec2024 05:15:26.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DIEGUITE
+[28Dec2024 05:15:26.347] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DIEGUITE
+[28Dec2024 05:15:26.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DIEGUITE
+[28Dec2024 05:15:26.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DIEGUITE
+[28Dec2024 05:15:26.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DIEGUITE
+[28Dec2024 05:15:26.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE joined the game
+[28Dec2024 05:15:26.440] [Server thread/INFO] [net.forixaim.battle_arts.core_assets.events.SpawnLogic/]: First login detected for player DIEGUITE
+[28Dec2024 05:15:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Christmas]
+[28Dec2024 05:15:26.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has completed the challenge [Armageddon Mod !]
+[28Dec2024 05:15:26.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has completed the challenge [Armageddon Mod: Relics!]
+[28Dec2024 05:15:27.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has completed the challenge [The Undead]
+[28Dec2024 05:15:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Integrated Dungeons and Structures]
+[28Dec2024 05:15:27.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Ice and Fire]
+[28Dec2024 05:16:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has made the advancement [Alex's Mobs]
+[28Dec2024 05:16:38.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -41.99612437156253,2.837858578972998,7.3178938313316735
+[28Dec2024 05:16:49.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIEGUITE lost connection: Disconnected
+[28Dec2024 05:16:49.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE left the game
+[28Dec2024 05:17:17.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:58979] logged in with entity id 54880 at (-323.92608260985395, 162.0, 451.7056241680331)
+[28Dec2024 05:17:17.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[28Dec2024 05:17:17.216] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[28Dec2024 05:17:17.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[28Dec2024 05:17:17.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[28Dec2024 05:17:17.227] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[28Dec2024 05:17:17.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[28Dec2024 05:17:17.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[28Dec2024 05:17:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[28Dec2024 05:17:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Fighting Nightmares]
