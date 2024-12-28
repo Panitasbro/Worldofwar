@@ -5586,3 +5586,17 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 07:39:05.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Deceived Hopes]
 [28Dec2024 07:41:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
 [28Dec2024 07:41:25.058] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:41:46.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:41:46.382] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:41:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:41:54.869] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:42:30.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:42:30.918] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:42:43.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Endermite Guard
+[28Dec2024 07:42:43.463] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 07:50:10.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE has reached the goal [Eye of Darkness]
+[28Dec2024 07:50:10.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Gave 1 [Ender Pearl] to DIEGUITE]
+[28Dec2024 07:50:37.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Dec2024 07:51:06.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13961ms or 279 ticks behind
+[28Dec2024 07:51:42.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21079ms or 421 ticks behind
+[28Dec2024 07:51:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [A Terrifying Entrance]
