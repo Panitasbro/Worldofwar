@@ -7207,6 +7207,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-28 04:53:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-28 04:05:33 +0000"
@@ -7495,6 +7501,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2024-12-28 04:53:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 04:15:20 +0000"
@@ -7612,6 +7624,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2024-12-28 04:53:34 +0000"
     },
     "done": true
   },

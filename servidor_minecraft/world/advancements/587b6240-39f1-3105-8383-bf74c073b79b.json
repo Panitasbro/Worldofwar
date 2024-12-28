@@ -8136,9 +8136,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-28 04:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-28 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 04:35:28 +0000"
     },
     "done": true
   },
@@ -8178,6 +8190,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2024-12-28 04:44:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-28 03:44:53 +0000"
@@ -8196,6 +8214,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2024-12-28 04:44:20 +0000"
+    },
+    "done": true
+  },
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2024-12-28 04:21:25 +0000"
@@ -8205,6 +8229,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-28 03:21:20 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2024-12-28 04:44:20 +0000"
     },
     "done": true
   },
@@ -8232,6 +8262,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2024-12-28 04:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-28 03:22:37 +0000"
@@ -8241,6 +8277,12 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-28 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2024-12-28 04:44:20 +0000"
     },
     "done": true
   },
@@ -8265,6 +8307,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2024-12-28 03:36:48 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-28 04:34:47 +0000"
     },
     "done": true
   },

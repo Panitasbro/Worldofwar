@@ -4842,3 +4842,20 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 04:27:12.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
 [28Dec2024 04:27:39.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Into Fire]
 [28Dec2024 04:27:49.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Dec2024 04:28:08.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4436ms or 88 ticks behind
+[28Dec2024 04:28:28.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4534ms or 90 ticks behind
+[28Dec2024 04:29:54.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was doomed to fall by Ancient Knight
+[28Dec2024 04:29:54.682] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 04:30:03.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[28Dec2024 04:33:06.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42807, l='ServerLevel[world]', x=-394.14, y=63.00, z=213.66] died, message: 'Villager was slain by Namikaze'
+[28Dec2024 04:34:39.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/42588, l='ServerLevel[world]', x=-337.01, y=63.00, z=158.93] died, message: 'Farmer died whilst trying to escape The Spitter'
+[28Dec2024 04:34:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [My Bald Satanic Goth Girl Friend]
+[28Dec2024 04:35:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Great minds think alike]
+[28Dec2024 04:36:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Minotaur
+[28Dec2024 04:36:08.467] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[28Dec2024 04:36:13.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Dec2024 04:36:25.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44231, l='ServerLevel[world]', x=-693.04, y=68.00, z=190.97] died, message: 'Villager was slain by The Moonflower'
+[28Dec2024 04:36:31.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[28Dec2024 04:38:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Voluntary Exile]
+[28Dec2024 04:53:23.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Good Demoman]
+[28Dec2024 04:53:34.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Explosive Temper]
