@@ -8346,5 +8346,23 @@
     },
     "done": true
   },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-12-28 05:24:28 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-28 05:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 05:24:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
