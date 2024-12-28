@@ -5260,3 +5260,47 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [28Dec2024 05:28:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported DIEGUITE to Darkgospel]
 [28Dec2024 05:28:43.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIEGUITE lost connection: Disconnected
 [28Dec2024 05:28:43.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE left the game
+[28Dec2024 05:29:35.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[28Dec2024 05:29:59.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8940ms or 178 ticks behind
+[28Dec2024 05:30:20.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
+[28Dec2024 05:30:26.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIEGUITE[/127.233.103.112:46623] logged in with entity id 63289 at (-21.02675148066782, 86.0, 303.90596476870604)
+[28Dec2024 05:30:26.427] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DIEGUITE
+[28Dec2024 05:30:26.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DIEGUITE
+[28Dec2024 05:30:26.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DIEGUITE
+[28Dec2024 05:30:26.429] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DIEGUITE
+[28Dec2024 05:30:26.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DIEGUITE
+[28Dec2024 05:30:26.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DIEGUITE
+[28Dec2024 05:30:26.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DIEGUITE
+[28Dec2024 05:30:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE joined the game
+[28Dec2024 05:30:29.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved too quickly! -9.6384852619816,2.043535620147509,2.238334390640375
+[28Dec2024 05:30:44.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9415ms or 188 ticks behind
+[28Dec2024 05:31:05.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5600ms or 112 ticks behind
+[28Dec2024 05:31:38.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[28Dec2024 05:32:55.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[28Dec2024 05:33:09.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [A Witch's Stump]
+[28Dec2024 05:33:21.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10702ms or 214 ticks behind
+[28Dec2024 05:33:41.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
+[28Dec2024 05:33:45.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [How the Turn Tables]
+[28Dec2024 05:34:11.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Dec2024 05:34:29.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[28Dec2024 05:34:41.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported DIEGUITE to Darkgospel]
+[28Dec2024 05:34:43.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIEGUITE lost connection: Disconnected
+[28Dec2024 05:34:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE left the game
+[28Dec2024 05:34:47.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Dec2024 05:34:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[28Dec2024 05:37:15.725] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[28Dec2024 05:37:15.726] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[28Dec2024 05:39:40.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Become a Mahou Tsukai!]
+[28Dec2024 05:41:55.314] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DIEGUITE[/127.233.103.112:59099] logged in with entity id 66809 at (-31.246268479690187, 85.0, 303.5)
+[28Dec2024 05:41:55.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DIEGUITE
+[28Dec2024 05:41:55.322] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DIEGUITE
+[28Dec2024 05:41:55.323] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DIEGUITE
+[28Dec2024 05:41:55.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DIEGUITE
+[28Dec2024 05:41:55.335] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DIEGUITE
+[28Dec2024 05:41:55.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DIEGUITE
+[28Dec2024 05:41:55.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DIEGUITE
+[28Dec2024 05:41:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE joined the game
+[28Dec2024 05:42:15.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DIEGUITE lost connection: Disconnected
+[28Dec2024 05:42:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DIEGUITE left the game
+[28Dec2024 05:43:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [Village Defender]
+[28Dec2024 05:44:12.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Knowledge raises the soul]
