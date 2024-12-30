@@ -4721,3 +4721,5 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 03:40:04.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -39.73210825062898,186.0,1255.4317395102921
 [30Dec2024 03:41:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Make a Tunnel to Nowhere]
 [30Dec2024 03:45:11.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[30Dec2024 03:47:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Premium!]
+[30Dec2024 03:48:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Big Digger]

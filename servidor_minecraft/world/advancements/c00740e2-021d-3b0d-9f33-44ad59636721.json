@@ -7922,6 +7922,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2024-12-30 03:51:04 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2024-12-30 03:38:32 +0000"
@@ -7955,6 +7961,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2024-12-30 03:51:04 +0000"
     },
     "done": true
   },
@@ -8009,6 +8021,18 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2024-12-30 03:50:59 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_excavator": {
+    "criteria": {
+      "gobber2_excavator": "2024-12-30 03:48:47 +0000"
     },
     "done": true
   },
@@ -8153,6 +8177,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-30 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-30 03:47:42 +0000"
     },
     "done": true
   },

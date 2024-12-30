@@ -19802,3 +19802,12 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 03:45:07.297] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of idas:ancient_mines/ancient_mines_entrance
 [30Dec2024 03:45:07.868] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
 [30Dec2024 03:45:11.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[30Dec2024 03:47:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Premium!]
+[30Dec2024 03:48:11.177] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[30Dec2024 03:48:11.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:48:11.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 03:48:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Big Digger]
+[30Dec2024 03:50:29.137] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[30Dec2024 03:53:11.182] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[30Dec2024 03:53:11.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 03:53:11.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
