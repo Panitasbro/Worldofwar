@@ -2589,6 +2589,12 @@
     },
     "done": true
   },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2024-12-28 07:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-28 06:51:14 +0000"
@@ -2878,6 +2884,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-28 07:50:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-28 07:21:40 +0000"
@@ -2893,6 +2905,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-28 06:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 07:50:10 +0000"
     },
     "done": true
   },
