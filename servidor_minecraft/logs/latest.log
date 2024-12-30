@@ -4723,3 +4723,8 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 03:45:11.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
 [30Dec2024 03:47:42.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Premium!]
 [30Dec2024 03:48:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [The Big Digger]
+[30Dec2024 04:00:21.325] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 04:00:21.326] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 04:00:34.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['General Ed the Odd'/13067, l='ServerLevel[world]', x=-306.19, y=162.00, z=437.15] died: General Ed the Odd was slain by Darkgospel
+[30Dec2024 04:03:37.023] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 04:03:37.024] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]

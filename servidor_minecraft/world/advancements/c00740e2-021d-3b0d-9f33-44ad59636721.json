@@ -8078,6 +8078,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_chestplate": "2024-12-30 04:00:35 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
