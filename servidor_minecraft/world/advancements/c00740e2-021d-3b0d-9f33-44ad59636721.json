@@ -7915,57 +7915,15 @@
     },
     "done": true
   },
-  "graveyard:graveyard/crypt": {
+  "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
-      "crypt": "2024-12-30 03:29:31 +0000"
+      "has_item": "2024-12-30 03:12:09 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+  "netherexp:recipes/bone_blocks/bone_fence": {
     "criteria": {
-      "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2024-12-30 05:00:54 +0000"
-    },
-    "done": true
-  },
-  "stellarity:story/strengthened_by_fire": {
-    "criteria": {
-      "criteria": "2024-12-30 05:00:54 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2024-12-30 03:51:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-30 04:58:50 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_horde": {
-    "criteria": {
-      "kill_horde": "2024-12-30 03:38:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
+      "has_item": "2024-12-30 03:12:09 +0000"
     },
     "done": true
   },
@@ -7975,15 +7933,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "supplementaries:recipes/pancake_fd": {
     "criteria": {
-      "has_raw_copper": "2024-12-30 05:09:15 +0000"
+      "forge:dough": "2024-12-30 03:21:36 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_glob": {
+  "create:recipes/misc/smelting/bread": {
     "criteria": {
-      "gobber2_glob": "2024-12-30 03:40:29 +0000"
+      "has_item": "2024-12-30 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2024-12-30 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2024-12-30 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2024-12-30 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
     },
     "done": true
   },
@@ -7999,57 +8011,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/sanctum/skull_on_a_stick": {
-    "criteria": {
-      "item": "2024-12-30 03:51:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_rod": {
-    "criteria": {
-      "has_item": "2024-12-30 03:12:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-12-30 03:26:42 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/eyebomination": {
-    "criteria": {
-      "has_item": "2024-12-30 05:00:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-30 04:43:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "forge:dough": "2024-12-30 03:21:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-30 03:25:56 +0000"
-    },
-    "done": true
-  },
-  "stellarity:recipes/slime_ball_from_ender_eye": {
-    "criteria": {
-      "has_item": "2024-12-30 05:00:54 +0000"
     },
     "done": true
   },
@@ -8065,12 +8029,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-30 04:29:41 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
@@ -8080,30 +8038,6 @@
   "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/lesion": {
-    "criteria": {
-      "has_item": "2024-12-30 03:50:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-30 05:11:37 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_excavator": {
-    "criteria": {
-      "gobber2_excavator": "2024-12-30 03:48:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-30 04:58:50 +0000"
     },
     "done": true
   },
@@ -8125,51 +8059,9 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/ender_eye": {
-    "criteria": {
-      "kill": "2024-12-30 03:33:45 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_rod": {
-    "criteria": {
-      "gobber2_rod": "2024-12-30 03:41:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/bread": {
-    "criteria": {
-      "has_item": "2024-12-30 03:21:36 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2024-12-30 03:36:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_chestplate": "2024-12-30 04:00:35 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2024-12-30 05:09:15 +0000"
     },
     "done": true
   },
@@ -8179,93 +8071,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/cake": {
-    "criteria": {
-      "has_item": "2024-12-30 03:21:36 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/oni": {
-    "criteria": {
-      "kill": "2024-12-30 04:24:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 03:25:57 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/campfire_cooking/bread": {
-    "criteria": {
-      "has_item": "2024-12-30 03:21:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/dullahan": {
-    "criteria": {
-      "kill": "2024-12-30 04:45:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2024-12-30 05:00:54 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/fiery_quiver": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
-    },
-    "done": true
-  },
-  "gobber2:root": {
-    "criteria": {
-      "gobber2_globette": "2024-12-30 03:27:13 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_hammer": {
-    "criteria": {
-      "gobber2_hammer": "2024-12-30 03:41:51 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ingot": {
-    "criteria": {
-      "gobber2_ingot": "2024-12-30 03:41:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-30 03:25:56 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/bone_blocks/bone_fence": {
-    "criteria": {
-      "has_item": "2024-12-30 03:12:09 +0000"
     },
     "done": true
   },
@@ -8287,24 +8101,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2024-12-30 03:26:42 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2024-12-30 03:47:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-12-30 03:26:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
@@ -8314,12 +8110,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 03:25:57 +0000"
-    },
-    "done": true
-  },
-  "stellarity:nether/a_step_to_the_end": {
-    "criteria": {
-      "criteria": "2024-12-30 05:00:16 +0000"
     },
     "done": true
   },
@@ -8335,12 +8125,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-30 04:58:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-30 03:25:57 +0000"
@@ -8353,15 +8137,249 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/slime_ball": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_item": "2024-12-30 03:21:36 +0000"
+      "has_raw_silver": "2024-12-30 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-30 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-30 03:26:42 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2024-12-30 03:27:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2024-12-30 03:29:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/ender_eye": {
+    "criteria": {
+      "kill": "2024-12-30 03:33:45 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-30 03:36:28 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2024-12-30 03:38:32 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2024-12-30 03:40:29 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2024-12-30 03:41:44 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2024-12-30 03:41:47 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2024-12-30 03:41:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-30 03:47:42 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_excavator": {
+    "criteria": {
+      "gobber2_excavator": "2024-12-30 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2024-12-30 03:50:59 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2024-12-30 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2024-12-30 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_chestplate": "2024-12-30 04:00:35 +0000"
+    },
+    "done": false
+  },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2024-12-30 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-30 04:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-30 04:43:41 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2024-12-30 04:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-30 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-30 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-30 04:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 05:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 05:09:15 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-30 05:09:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-30 05:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-30 05:14:15 +0000"
+    },
+    "done": true
+  },
+  "swem:swem": {
+    "criteria": {
+      "tame_swem_horse": "2024-12-30 05:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 05:15:02 +0000"
     },
     "done": true
   },

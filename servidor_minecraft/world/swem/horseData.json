@@ -1,3 +1,21 @@
 {
-  "horseData": {}
+  "horseData": {
+    "79a30628-b34f-4397-9175-a90f70abe33c": {
+      "horseId": "79a30628-b34f-4397-9175-a90f70abe33c",
+      "horseName": "SWEM Horse",
+      "ownerId": "c00740e2-021d-3b0d-9f33-44ad59636721",
+      "ownerName": "Darkgospel",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "f_82479_": -317.1159050008621,
+        "f_82480_": 162.0,
+        "f_82481_": 461.564873270601
+      },
+      "isDead": false,
+      "inventoryData": {"Inventory":[{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":0},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":1},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":2},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":3},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":4},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":5},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":6},{"Item":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"Slot":7}]},
+      "progressionData": {"JumpLevel":0,"SpeedLevel":0,"AffinityXP":750.0,"AffinityLevel":1,"daysSwiped":[0,0,0,0,0],"HealthLevel":0,"JumpXP":0.0,"HealthXP":80.0,"desensiztingItem":{"id":"minecraft:air","Count":1,"tag":{"Charged":0}},"SpeedXP":0.0,"currentSwipes":0},
+      "genderData": {"GestationTimer":0,"Pregnant":0,"Foals":[],"TotalOffsprings":0,"Female":1,"Infertile":0,"InLoveTimer":0,"BreedCooldown":0},
+      "lineageData": {"Data":{"Offsprings":[]}}
+    }
+  }
 }

@@ -4868,3 +4868,140 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 05:15:02.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Best Friends Forever]
 [30Dec2024 05:16:39.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Mad Knight
 [30Dec2024 05:16:39.050] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:21:18.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [Unfunny dad jokes]
+[30Dec2024 05:27:59.074] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 05:27:59.074] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 05:30:29.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:30:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:32:31.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:47751] logged in with entity id 35908 at (-317.0335177773051, 162.0, 460.6181277019586)
+[30Dec2024 05:32:31.482] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:32:31.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:32:31.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:32:31.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:32:31.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:32:31.498] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:32:31.513] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:32:31.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:32:38.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[30Dec2024 05:32:53.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:32:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:33:43.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[30Dec2024 05:33:59.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Natasha the Super'/36242, l='ServerLevel[world]', x=85.70, y=64.00, z=-16.69] died: Natasha the Super was slain by Namikaze
+[30Dec2024 05:34:17.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:46317] logged in with entity id 36493 at (-317.0335177773051, 162.0, 460.6181277019586)
+[30Dec2024 05:34:17.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:34:17.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:34:17.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:34:17.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:34:17.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:34:17.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:34:17.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:34:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:34:18.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed
+[30Dec2024 05:34:18.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[30Dec2024 05:34:18.170] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 05:34:21.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[30Dec2024 05:34:39.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[30Dec2024 05:34:45.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:34:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:34:48.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28895, l='ServerLevel[world]', x=42.71, y=64.00, z=24.97] died, message: 'Villager was slain by Zombie Bruiser'
+[30Dec2024 05:36:21.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:44561] logged in with entity id 37465 at (-313.2145489955145, 162.0, 459.3124015972019)
+[30Dec2024 05:36:21.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:36:21.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:36:21.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:36:21.230] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:36:21.233] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:36:21.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:36:21.242] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:36:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:36:21.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[30Dec2024 05:36:25.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[30Dec2024 05:36:42.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:36:42.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:36:47.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by The Moonflower
+[30Dec2024 05:36:48.106] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:37:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Zombie
+[30Dec2024 05:37:36.526] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:38:46.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:37603] logged in with entity id 38756 at (-313.2145489955145, 162.0, 459.3124015972019)
+[30Dec2024 05:38:46.131] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:38:46.132] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:38:46.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:38:46.144] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:38:46.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:38:46.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:38:46.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:38:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:38:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[30Dec2024 05:38:46.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...ill darkgo/kill d/kill darkgospel<--[HERE]
+[30Dec2024 05:38:51.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[30Dec2024 05:39:07.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:39:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:40:21.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by The Horrors
+[30Dec2024 05:40:21.151] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:41:05.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:33681] logged in with entity id 39817 at (-313.2145489955145, 162.0, 459.3124015972019)
+[30Dec2024 05:41:05.317] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:41:05.318] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:41:05.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:41:05.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:41:05.326] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:41:05.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:41:05.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:41:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:41:06.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed
+[30Dec2024 05:41:06.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[30Dec2024 05:41:06.044] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 05:41:08.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[30Dec2024 05:42:19.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:42:19.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:43:53.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:43429] logged in with entity id 41220 at (-313.8110782280719, 162.0, 456.62123353357765)
+[30Dec2024 05:43:53.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:43:53.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:43:53.221] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:43:53.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:43:53.225] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:43:53.228] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:43:53.229] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:43:53.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:43:54.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed
+[30Dec2024 05:43:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[30Dec2024 05:43:54.138] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 05:46:37.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:46:37.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:47:01.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Make a Tunnel to Nowhere]
+[30Dec2024 05:48:07.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:56697] logged in with entity id 42093 at (-311.7617813233314, 158.0, 453.3160750644837)
+[30Dec2024 05:48:07.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:48:07.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:48:07.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:48:07.876] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:48:07.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:48:07.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:48:07.887] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:48:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:48:08.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed
+[30Dec2024 05:48:08.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[30Dec2024 05:48:08.444] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 05:49:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was struck by lightning
+[30Dec2024 05:49:56.865] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:50:04.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 05:50:04.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 05:52:10.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:47055] logged in with entity id 45335 at (-314.69999998807907, 156.0, 453.5058702051704)
+[30Dec2024 05:52:10.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 05:52:10.809] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 05:52:10.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 05:52:10.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 05:52:10.813] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 05:52:10.815] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 05:52:10.816] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 05:52:10.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 05:52:11.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed
+[30Dec2024 05:52:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Darkgospel
+[30Dec2024 05:52:11.505] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 05:54:23.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by The Hunter
+[30Dec2024 05:54:23.947] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:54:54.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Set the time to 1000]
+[30Dec2024 05:55:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Zombie Clown
+[30Dec2024 05:55:11.645] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 05:55:16.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie Clown
+[30Dec2024 05:55:16.210] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 05:56:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
+[30Dec2024 05:57:43.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[30Dec2024 05:57:43.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
