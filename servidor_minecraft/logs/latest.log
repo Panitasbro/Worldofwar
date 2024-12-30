@@ -5178,3 +5178,13 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [30Dec2024 08:10:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Stray
 [30Dec2024 08:10:23.462] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [30Dec2024 08:10:28.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[30Dec2024 08:11:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[30Dec2024 08:11:23.660] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 08:11:27.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[30Dec2024 08:11:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Zombie
+[30Dec2024 08:11:30.447] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 08:17:11.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[30Dec2024 08:17:11.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[30Dec2024 08:17:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel burned to death
+[30Dec2024 08:17:12.153] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 08:17:21.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
