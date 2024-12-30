@@ -5092,3 +5092,4 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [30Dec2024 06:30:06.349] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [30Dec2024 06:44:38.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Flawless Crystals]
 [30Dec2024 06:47:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Who turned the lights off?]
+[30Dec2024 06:51:42.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
