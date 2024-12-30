@@ -4735,3 +4735,34 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 04:24:11.188] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [30Dec2024 04:24:39.994] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
 [30Dec2024 04:26:16.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a20ccf0[id=<null>,name=Namikaze,properties={},legacy=false] (/127.181.45.238:42149) lost connection: Disconnected
+[30Dec2024 04:27:50.732] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[30Dec2024 04:28:03.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 5.26342476767752,-2.231523797587016,8.393308187149046
+[30Dec2024 04:28:40.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[30Dec2024 04:30:13.101] [Worker-Main-8/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"artifacts:villager_hat"}
+[30Dec2024 04:30:18.713] [Worker-Main-8/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=534, y=116, z=1190}
+[30Dec2024 04:30:18.714] [Worker-Main-8/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=534, y=116, z=1191}
+[30Dec2024 04:30:18.714] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:30:18.715] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:30:18.716] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:30:18.717] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:30:18.717] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:30:18.717] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:32:46.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
+[30Dec2024 04:33:20.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/19918, l='ServerLevel[world]', x=472.68, y=105.00, z=1184.71] died, message: 'Fisherman was slain by Zombie'
+[30Dec2024 04:34:20.489] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 04:34:20.498] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[30Dec2024 04:35:49.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[30Dec2024 04:36:13.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -7.7118888895440705,5.0,-4.397062931661367
+[30Dec2024 04:36:13.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7756ms or 155 ticks behind
+[30Dec2024 04:39:43.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -5.497008098888159,-2.055462434525026,8.148182332764918
+[30Dec2024 04:41:08.413] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id friendsandfoes:iceologer
+[30Dec2024 04:41:09.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -9.622572651796517,-1.0625,-2.8811847163360653
+[30Dec2024 04:41:09.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
+[30Dec2024 04:41:28.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 0.7299065788008079,-10.114204560346366,1.8117051557355808
+[30Dec2024 04:41:29.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
+[30Dec2024 04:43:18.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 3.5380257633373375,-3.233632006042484,-8.97228498550976
+[30Dec2024 04:44:47.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
+[30Dec2024 04:45:11.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f704ef6[id=<null>,name=Namikaze,properties={},legacy=false] (/127.181.45.238:46693) lost connection: Disconnected
+[30Dec2024 04:47:10.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[30Dec2024 04:47:11.425] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 04:47:11.425] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
