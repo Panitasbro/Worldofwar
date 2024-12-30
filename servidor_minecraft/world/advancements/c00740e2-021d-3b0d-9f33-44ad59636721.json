@@ -7915,12 +7915,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-30 04:43:40 +0000"
-    },
-    "done": false
-  },
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2024-12-30 03:29:31 +0000"
@@ -7933,9 +7927,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/skeleton_skull_candle": {
     "criteria": {
       "has_item": "2024-12-30 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-30 04:58:50 +0000"
     },
     "done": true
   },
@@ -7954,6 +7972,12 @@
   "create:recipes/misc/smoking/bread": {
     "criteria": {
       "has_item": "2024-12-30 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 05:09:15 +0000"
     },
     "done": true
   },
@@ -7999,6 +8023,18 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-30 04:43:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:dough": "2024-12-30 03:21:36 +0000"
@@ -8008,6 +8044,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2024-12-30 05:00:54 +0000"
     },
     "done": true
   },
@@ -8047,9 +8089,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-30 05:11:37 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_excavator": {
     "criteria": {
       "gobber2_excavator": "2024-12-30 03:48:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-30 04:58:50 +0000"
     },
     "done": true
   },
@@ -8095,6 +8149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:fiery_set": {
     "criteria": {
       "fiery_chestplate": "2024-12-30 04:00:35 +0000"
@@ -8104,6 +8164,12 @@
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 05:09:15 +0000"
     },
     "done": true
   },
@@ -8152,6 +8218,24 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2024-12-30 04:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-30 05:00:54 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-30 05:00:16 +0000"
     },
     "done": true
   },
@@ -8233,6 +8317,12 @@
     },
     "done": true
   },
+  "stellarity:nether/a_step_to_the_end": {
+    "criteria": {
+      "criteria": "2024-12-30 05:00:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-30 03:25:57 +0000"
@@ -8242,6 +8332,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-30 03:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-30 04:58:50 +0000"
     },
     "done": true
   },
@@ -8260,6 +8356,12 @@
   "create:recipes/misc/crafting/appliances/slime_ball": {
     "criteria": {
       "has_item": "2024-12-30 03:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 05:09:15 +0000"
     },
     "done": true
   },

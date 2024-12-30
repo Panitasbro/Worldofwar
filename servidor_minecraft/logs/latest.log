@@ -4766,3 +4766,105 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 04:47:10.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
 [30Dec2024 04:47:11.425] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [30Dec2024 04:47:11.425] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 04:47:30.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 6.76542873450267,-6.078400001525878,-4.892356703598352
+[30Dec2024 04:47:39.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13597ms or 271 ticks behind
+[30Dec2024 04:47:57.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[30Dec2024 04:48:16.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3468ms or 69 ticks behind
+[30Dec2024 04:48:57.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4721ms or 94 ticks behind
+[30Dec2024 04:50:40.382] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52e08e68[id=<null>,name=Namikaze,properties={},legacy=false] (/127.181.45.238:51713) lost connection: Disconnected
+[30Dec2024 04:50:48.374] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 04:50:48.375] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 04:52:16.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:38811] logged in with entity id 25913 at (-177.69999998807907, 9.6875, 373.3484894110382)
+[30Dec2024 04:52:16.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[30Dec2024 04:52:16.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[30Dec2024 04:52:16.893] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[30Dec2024 04:52:16.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[30Dec2024 04:52:16.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[30Dec2024 04:52:16.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[30Dec2024 04:52:16.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[30Dec2024 04:52:17.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[30Dec2024 04:52:20.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze suffocated in a wall
+[30Dec2024 04:52:20.712] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 04:54:52.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has completed the challenge [Overkill]
+[30Dec2024 04:55:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Earth Loong
+[30Dec2024 04:55:26.276] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 04:55:33.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was fireballed by Flesh Lich
+[30Dec2024 04:55:33.554] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 04:55:42.226] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 04:55:42.227] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 04:58:03.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-54, y=-42, z=248}
+[30Dec2024 04:58:16.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-43, z=247}
+[30Dec2024 04:58:16.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-43, z=246}
+[30Dec2024 04:58:16.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-42, z=246}
+[30Dec2024 04:58:17.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-42, z=247}
+[30Dec2024 04:58:17.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-42, z=246}
+[30Dec2024 04:58:17.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-42, z=247}
+[30Dec2024 04:58:17.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-54, y=-42, z=248}
+[30Dec2024 04:58:29.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-42, z=246}
+[30Dec2024 04:58:30.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-42, z=246}
+[30Dec2024 04:58:36.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-53, y=-44, z=249}
+[30Dec2024 04:58:36.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=249}
+[30Dec2024 04:58:36.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:36.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:36.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-51, y=-44, z=248}
+[30Dec2024 04:58:37.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:37.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:37.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:39.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:39.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-52, y=-44, z=248}
+[30Dec2024 04:58:44.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-43, y=-43, z=245}
+[30Dec2024 04:58:47.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-47, y=-44, z=250}
+[30Dec2024 04:58:50.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Into Fire]
+[30Dec2024 04:58:55.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=-33, z=259} BlockPos{x=-46, y=-42, z=253}
+[30Dec2024 05:00:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [A Step to The End]
+[30Dec2024 05:00:19.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[30Dec2024 05:00:19.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[30Dec2024 05:00:30.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:55477] logged in with entity id 28692 at (-52.87546561250457, -43.0, 249.83954871920182)
+[30Dec2024 05:00:30.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[30Dec2024 05:00:30.244] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[30Dec2024 05:00:30.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[30Dec2024 05:00:30.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[30Dec2024 05:00:30.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[30Dec2024 05:00:30.259] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[30Dec2024 05:00:30.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[30Dec2024 05:00:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[30Dec2024 05:00:44.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-53, y=-43, z=247}
+[30Dec2024 05:00:48.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-54, y=-43, z=248}
+[30Dec2024 05:00:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Strengthened by Fire]
+[30Dec2024 05:01:03.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-54, y=-43, z=248}
+[30Dec2024 05:01:04.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-55, y=-43, z=248}
+[30Dec2024 05:01:07.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-54, y=-44, z=248}
+[30Dec2024 05:01:12.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=251}
+[30Dec2024 05:01:12.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=251}
+[30Dec2024 05:01:12.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=252}
+[30Dec2024 05:01:17.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=251}
+[30Dec2024 05:01:17.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=251}
+[30Dec2024 05:01:17.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=251}
+[30Dec2024 05:01:17.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-58, y=-44, z=251}
+[30Dec2024 05:01:21.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:21.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:22.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:22.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-60, y=-44, z=255}
+[30Dec2024 05:01:22.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-59, y=-44, z=254}
+[30Dec2024 05:01:23.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-59, y=-44, z=254}
+[30Dec2024 05:01:23.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-59, y=-44, z=254}
+[30Dec2024 05:01:23.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-59, y=-44, z=254}
+[30Dec2024 05:01:23.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=-42, z=251} BlockPos{x=-59, y=-44, z=254}
+[30Dec2024 05:01:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Captured!]
+[30Dec2024 05:02:31.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[30Dec2024 05:04:46.225] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 05:04:46.226] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 05:06:53.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Cover Me with Diamonds]
+[30Dec2024 05:10:02.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [What a Deal!]
+[30Dec2024 05:13:20.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Somehow, Pickarang Returned]
+[30Dec2024 05:14:15.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Local Brewery]
+[30Dec2024 05:15:02.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [SWEM]
+[30Dec2024 05:15:02.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Best Friends Forever]
+[30Dec2024 05:16:39.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Mad Knight
+[30Dec2024 05:16:39.050] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
