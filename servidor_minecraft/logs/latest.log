@@ -4730,3 +4730,8 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 04:03:37.024] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [30Dec2024 04:09:31.125] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [30Dec2024 04:09:31.125] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 04:17:14.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -2.318061303677325,-0.17542329595207207,10.034153833281835
+[30Dec2024 04:24:11.187] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:24:11.188] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Dec2024 04:24:39.994] [Worker-Main-16/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[30Dec2024 04:26:16.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a20ccf0[id=<null>,name=Namikaze,properties={},legacy=false] (/127.181.45.238:42149) lost connection: Disconnected
