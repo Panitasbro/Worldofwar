@@ -2292,6 +2292,8 @@
       "minecraft:husk": "2024-12-28 03:14:39 +0000",
       "minecraft:cave_spider": "2024-12-30 07:06:16 +0000",
       "minecraft:enderman": "2024-12-30 07:10:04 +0000",
+      "minecraft:silverfish": "2024-12-30 07:28:02 +0000",
+      "minecraft:stray": "2024-12-30 07:21:01 +0000",
       "minecraft:vex": "2024-12-28 03:39:02 +0000",
       "minecraft:zombie": "2024-12-23 06:24:13 +0000",
       "minecraft:drowned": "2024-12-28 05:51:09 +0000",
@@ -8833,6 +8835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-30 07:41:44 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2024-12-30 06:14:47 +0000"
@@ -8878,6 +8886,24 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 06:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 07:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-30 07:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 07:33:34 +0000"
     },
     "done": true
   },
@@ -8959,6 +8985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-30 07:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 06:16:06 +0000"
@@ -9007,6 +9039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 07:33:34 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2024-12-30 06:20:43 +0000"
@@ -9016,6 +9054,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-30 06:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-30 07:41:44 +0000"
     },
     "done": true
   },

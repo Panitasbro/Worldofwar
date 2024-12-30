@@ -5114,3 +5114,38 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [30Dec2024 07:18:00.403] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
 [30Dec2024 07:19:35.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
 [30Dec2024 07:19:35.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[30Dec2024 07:27:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[30Dec2024 07:29:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Stray
+[30Dec2024 07:29:31.327] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:29:37.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[30Dec2024 07:30:25.174] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 07:30:25.174] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 07:30:32.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Stray
+[30Dec2024 07:30:32.107] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:30:36.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[30Dec2024 07:31:12.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was pummeled by Breeze
+[30Dec2024 07:31:12.905] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:31:17.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[30Dec2024 07:35:21.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Skeleton
+[30Dec2024 07:35:21.566] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:35:26.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[30Dec2024 07:36:08.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze died because of Bogged
+[30Dec2024 07:36:08.812] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:36:13.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[30Dec2024 07:36:22.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel burned to death
+[30Dec2024 07:36:22.994] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 07:36:28.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Bogged
+[30Dec2024 07:36:28.794] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:36:31.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[30Dec2024 07:36:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Stray
+[30Dec2024 07:36:52.217] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:36:56.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[30Dec2024 07:44:06.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Stray
+[30Dec2024 07:44:06.265] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:44:12.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[30Dec2024 07:44:39.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[30Dec2024 07:50:09.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Skeleton
+[30Dec2024 07:50:09.653] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:50:14.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[30Dec2024 07:50:33.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Bogged
+[30Dec2024 07:50:33.110] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
