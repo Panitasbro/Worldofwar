@@ -8831,12 +8831,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-30 06:24:28 +0000"
-    },
-    "done": false
-  },
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2024-12-30 06:14:47 +0000"
@@ -8954,6 +8948,18 @@
   "graveyard:graveyard/kill_wraith": {
     "criteria": {
       "wraith": "2024-12-30 06:15:59 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2024-12-30 06:48:14 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2024-12-30 06:47:50 +0000"
     },
     "done": true
   },
