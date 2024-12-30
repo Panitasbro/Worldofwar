@@ -2290,6 +2290,8 @@
       "minecraft:evoker": "2024-12-28 03:39:20 +0000",
       "minecraft:witch": "2024-12-28 05:33:28 +0000",
       "minecraft:husk": "2024-12-28 03:14:39 +0000",
+      "minecraft:cave_spider": "2024-12-30 07:06:16 +0000",
+      "minecraft:enderman": "2024-12-30 07:10:04 +0000",
       "minecraft:vex": "2024-12-28 03:39:02 +0000",
       "minecraft:zombie": "2024-12-23 06:24:13 +0000",
       "minecraft:drowned": "2024-12-28 05:51:09 +0000",
@@ -8903,9 +8905,27 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/crescentia": {
+    "criteria": {
+      "has_item": "2024-12-30 07:01:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2024-12-30 07:10:06 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/dark_iron": {
     "criteria": {
       "dark_iron": "2024-12-30 06:16:12 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-30 07:04:04 +0000"
     },
     "done": true
   },
@@ -8933,6 +8953,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2024-12-30 07:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-30 06:16:06 +0000"
@@ -8944,6 +8970,12 @@
       "fiery_chestplate": "2024-12-30 06:04:22 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-30 07:07:22 +0000"
+    },
+    "done": true
   },
   "graveyard:graveyard/kill_wraith": {
     "criteria": {
@@ -8969,6 +9001,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2024-12-30 07:10:10 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2024-12-30 06:20:43 +0000"
@@ -8984,6 +9022,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-30 06:14:48 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2024-12-30 07:01:14 +0000"
     },
     "done": true
   },

@@ -5093,3 +5093,24 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [30Dec2024 06:44:38.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has reached the goal [Flawless Crystals]
 [30Dec2024 06:47:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Who turned the lights off?]
 [30Dec2024 06:51:42.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[30Dec2024 07:02:34.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Namikaze to Darkgospel]
+[30Dec2024 07:04:04.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Epic!]
+[30Dec2024 07:04:34.185] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 07:04:34.186] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 07:04:49.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Cheryl the Shiny'/60711, l='ServerLevel[world]', x=-240.28, y=-25.00, z=368.30] died: Cheryl the Shiny was slain by Darkgospel
+[30Dec2024 07:10:06.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Blindfolded]
+[30Dec2024 07:10:58.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[30Dec2024 07:14:17.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Skeleton
+[30Dec2024 07:14:17.821] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 07:15:02.675] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 07:15:02.676] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 07:16:53.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Zombie
+[30Dec2024 07:16:53.319] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 07:16:57.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[30Dec2024 07:17:28.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Zombie
+[30Dec2024 07:17:28.319] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 07:17:33.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[30Dec2024 07:18:00.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Pillager
+[30Dec2024 07:18:00.403] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 07:19:35.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[30Dec2024 07:19:35.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
