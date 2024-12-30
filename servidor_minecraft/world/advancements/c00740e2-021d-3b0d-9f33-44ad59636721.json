@@ -8498,12 +8498,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-30 07:49:51 +0000"
-    },
-    "done": false
-  },
   "netherexp:recipes/ivy/twisting_ivy": {
     "criteria": {
       "has_item": "2024-12-30 06:20:36 +0000"
