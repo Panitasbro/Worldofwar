@@ -5005,3 +5005,40 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 05:56:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
 [30Dec2024 05:57:43.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
 [30Dec2024 05:57:43.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[30Dec2024 05:59:03.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:48283] logged in with entity id 48275 at (-310.5, 162.0, 449.5)
+[30Dec2024 05:59:03.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[30Dec2024 05:59:03.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[30Dec2024 05:59:03.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[30Dec2024 05:59:03.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[30Dec2024 05:59:03.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[30Dec2024 05:59:03.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[30Dec2024 05:59:03.433] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[30Dec2024 05:59:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[30Dec2024 05:59:04.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was killed
+[30Dec2024 05:59:04.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Namikaze
+[30Dec2024 05:59:04.679] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:00:30.974] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 06:00:30.975] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 06:02:04.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was killed by Davathman the Thirsty's magic missile
+[30Dec2024 06:02:04.110] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 06:02:15.339] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Davathman the Thirsty'/48503, l='ServerLevel[world]', x=-317.33, y=161.00, z=498.95] died: Davathman the Thirsty was slain by Darkgospel
+[30Dec2024 06:02:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Epic!]
+[30Dec2024 06:03:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was struck by lightning
+[30Dec2024 06:03:58.830] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:03:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was struck by lightning
+[30Dec2024 06:03:59.894] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 06:11:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel fell off some vines
+[30Dec2024 06:11:58.905] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 06:12:22.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has completed the challenge [Overkill]
+[30Dec2024 06:14:47.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Into Darkness]
+[30Dec2024 06:15:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Corrupted Vindicator
+[30Dec2024 06:15:26.197] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:15:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Iron, but dark]
+[30Dec2024 06:15:40.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Source of Evil]
+[30Dec2024 06:15:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Taking from the Dead]
+[30Dec2024 06:16:12.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Iron, but dark]
+[30Dec2024 06:16:24.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Wraith
+[30Dec2024 06:16:24.900] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:17:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Wraith
+[30Dec2024 06:17:38.612] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:17:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Taking from the Dead]
