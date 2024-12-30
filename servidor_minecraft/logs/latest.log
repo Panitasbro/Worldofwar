@@ -5042,3 +5042,49 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 06:17:38.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Wraith
 [30Dec2024 06:17:38.612] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [30Dec2024 06:17:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Taking from the Dead]
+[30Dec2024 06:20:11.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Wraith
+[30Dec2024 06:20:11.650] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:21:14.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[30Dec2024 06:21:14.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[30Dec2024 06:21:53.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e75eeae[id=<null>,name=Darkgospel,properties={},legacy=false] (/127.58.16.227:54873) lost connection: Disconnected
+[30Dec2024 06:22:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Flawless Crystals]
+[30Dec2024 06:22:14.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@769e4876[id=<null>,name=Darkgospel,properties={},legacy=false] (/127.58.16.227:50977) lost connection: Disconnected
+[30Dec2024 06:23:25.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:52315] logged in with entity id 53389 at (-357.61251473359346, -38.625, 359.67155396277883)
+[30Dec2024 06:23:25.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[30Dec2024 06:23:25.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[30Dec2024 06:23:25.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[30Dec2024 06:23:25.516] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[30Dec2024 06:23:25.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[30Dec2024 06:23:25.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[30Dec2024 06:23:25.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[30Dec2024 06:23:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[30Dec2024 06:25:09.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Chancellor Maddie the Rough'/53593, l='ServerLevel[world]', x=-358.30, y=-38.00, z=408.95] died: Chancellor Maddie the Rough was slain by Namikaze
+[30Dec2024 06:26:23.035] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@5b8f8114, suppressing error
+java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=locked, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:cave_air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61124_(StateHolder.java:122) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at com.lion.graveyard.blocks.SarcophagusBlock.spawnGhost(SarcophagusBlock.java:153) ~[The_Graveyard_3.1_(FORGE)_for_1.20.1.jar%23354!/:?]
+	at com.lion.graveyard.blocks.SarcophagusBlock.m_6227_(SarcophagusBlock.java:129) ~[The_Graveyard_3.1_(FORGE)_for_1.20.1.jar%23354!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1055) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23373!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[30Dec2024 06:26:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Pseudo Archaeologist]
+[30Dec2024 06:28:59.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Corrupted Vindicator
+[30Dec2024 06:28:59.701] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 06:29:10.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Corrupted Vindicator
+[30Dec2024 06:29:10.905] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
