@@ -4728,3 +4728,5 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [30Dec2024 04:00:34.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['General Ed the Odd'/13067, l='ServerLevel[world]', x=-306.19, y=162.00, z=437.15] died: General Ed the Odd was slain by Darkgospel
 [30Dec2024 04:03:37.023] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [30Dec2024 04:03:37.024] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 04:09:31.125] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 04:09:31.125] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
