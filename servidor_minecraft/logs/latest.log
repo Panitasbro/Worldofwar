@@ -5164,3 +5164,17 @@ java.lang.IllegalArgumentException: Cannot set property BooleanProperty{name=loc
 [30Dec2024 07:56:12.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Pillager
 [30Dec2024 07:56:12.108] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [30Dec2024 07:56:16.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[30Dec2024 08:01:23.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Husk
+[30Dec2024 08:01:23.100] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 08:01:29.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[30Dec2024 08:01:53.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Cave Spider
+[30Dec2024 08:01:53.398] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 08:01:57.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[30Dec2024 08:02:01.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Cave Spider
+[30Dec2024 08:02:01.546] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[30Dec2024 08:02:16.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4069ms or 81 ticks behind
+[30Dec2024 08:04:52.776] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[30Dec2024 08:04:52.777] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[30Dec2024 08:10:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was shot by Stray
+[30Dec2024 08:10:23.462] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[30Dec2024 08:10:28.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind

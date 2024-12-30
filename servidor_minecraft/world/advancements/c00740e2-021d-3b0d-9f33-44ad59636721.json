@@ -8498,6 +8498,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-30 08:10:09 +0000"
+    },
+    "done": false
+  },
   "netherexp:recipes/ivy/twisting_ivy": {
     "criteria": {
       "has_item": "2024-12-30 06:20:36 +0000"
@@ -8921,6 +8927,12 @@
   "graveyard:graveyard/find_skeleton": {
     "criteria": {
       "skeleton": "2024-12-30 06:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-30 08:04:58 +0000"
     },
     "done": true
   },
