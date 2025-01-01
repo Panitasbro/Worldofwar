@@ -18859,3 +18859,37 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [01Jan2025 01:52:15.523] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
 [01Jan2025 01:52:21.078] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [01Jan2025 01:53:19.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5875, l='ServerLevel[world]', x=-617.27, y=94.00, z=1170.67] died, message: 'Villager was slain by Strong Zombie Warrior'
+[01Jan2025 01:54:07.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Jan2025 01:54:25.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[01Jan2025 01:54:25.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5822, l='ServerLevel[world]', x=-672.70, y=92.42, z=1266.51] died, message: 'Villager died whilst trying to escape The Spitter'
+[01Jan2025 01:54:29.211] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[01Jan2025 01:54:29.347] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[01Jan2025 01:54:30.142] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[01Jan2025 01:54:45.411] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[01Jan2025 01:54:47.865] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[01Jan2025 01:54:50.368] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[01Jan2025 01:55:20.137] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[01Jan2025 01:55:53.117] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[01Jan2025 01:55:58.150] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[01Jan2025 01:56:01.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[01Jan2025 01:57:10.861] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[01Jan2025 01:57:10.900] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[01Jan2025 01:57:14.367] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[01Jan2025 01:57:14.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 01:57:14.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 01:58:13.303] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[01Jan2025 01:58:33.152] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[01Jan2025 01:58:58.070] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[01Jan2025 01:58:58.381] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[01Jan2025 01:58:58.383] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[01Jan2025 01:59:06.126] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[01Jan2025 01:59:17.821] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[01Jan2025 01:59:50.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jan2025 01:59:51.969] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4
+[01Jan2025 02:00:14.175] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[01Jan2025 02:00:14.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 482.731850536819,49.0,-1161.7718410400125
+[01Jan2025 02:00:20.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[01Jan2025 02:00:21.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[01Jan2025 02:02:13.786] [Server thread/DEBUG] [HorseDataManager/]: Saving horse data to disk...
+[01Jan2025 02:02:13.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 02:02:13.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

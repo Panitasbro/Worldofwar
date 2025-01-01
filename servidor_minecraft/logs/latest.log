@@ -4032,3 +4032,8 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [01Jan2025 01:50:35.779] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
 [01Jan2025 01:51:32.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
 [01Jan2025 01:53:19.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5875, l='ServerLevel[world]', x=-617.27, y=94.00, z=1170.67] died, message: 'Villager was slain by Strong Zombie Warrior'
+[01Jan2025 01:54:07.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Jan2025 01:54:25.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[01Jan2025 01:54:25.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5822, l='ServerLevel[world]', x=-672.70, y=92.42, z=1266.51] died, message: 'Villager died whilst trying to escape The Spitter'
+[01Jan2025 01:58:58.070] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[01Jan2025 02:00:14.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! 482.731850536819,49.0,-1161.7718410400125
