@@ -4015,3 +4015,20 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [01Jan2025 01:40:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to -527.000000, 102.000000, 639.000000]
 [01Jan2025 01:42:43.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved too quickly! -6.6995471502640385,0.3245612398704907,7.639052846301638
 [01Jan2025 01:42:43.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7726ms or 154 ticks behind
+[01Jan2025 01:43:00.850] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[01Jan2025 01:43:00.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[01Jan2025 01:43:25.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9109ms or 182 ticks behind
+[01Jan2025 01:43:45.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[01Jan2025 01:46:37.383] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[01Jan2025 01:46:37.384] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[01Jan2025 01:46:43.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
+[01Jan2025 01:47:01.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[01Jan2025 01:50:24.476] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[01Jan2025 01:50:24.491] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[01Jan2025 01:50:26.473] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[01Jan2025 01:50:34.726] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[01Jan2025 01:50:34.766] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[01Jan2025 01:50:34.774] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[01Jan2025 01:50:35.779] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[01Jan2025 01:51:32.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
+[01Jan2025 01:53:19.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5875, l='ServerLevel[world]', x=-617.27, y=94.00, z=1170.67] died, message: 'Villager was slain by Strong Zombie Warrior'
