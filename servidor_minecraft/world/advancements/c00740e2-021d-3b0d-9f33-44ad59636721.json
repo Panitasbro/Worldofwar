@@ -9045,12 +9045,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-01 02:02:13 +0000"
-    },
-    "done": false
-  },
   "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
     "criteria": {
       "has_item": "2025-01-01 01:46:53 +0000"
