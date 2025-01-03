@@ -5966,3 +5966,38 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [03Jan2025 23:17:52.855] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [03Jan2025 23:19:34.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [03Jan2025 23:19:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Pic-A-Nic Basket?]
+[03Jan2025 23:21:57.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[03Jan2025 23:22:10.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to Namikaze]
+[03Jan2025 23:22:15.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[03Jan2025 23:22:34.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel was slain by Titan Rabbit
+[03Jan2025 23:22:34.259] [Server thread/INFO] [tombstone/]: The player Darkgospel has successfully been saved
+[03Jan2025 23:22:37.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6710ms or 134 ticks behind
+[03Jan2025 23:22:45.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Teleported Darkgospel to -411.500000, 84.000000, 288.500000]
+[03Jan2025 23:22:54.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[03Jan2025 23:22:54.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[03Jan2025 23:25:30.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[03Jan2025 23:26:01.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:33971] logged in with entity id 9135 at (-392.30000001192093, 86.0, 294.69999998807907)
+[03Jan2025 23:26:01.779] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[03Jan2025 23:26:01.785] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[03Jan2025 23:26:01.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[03Jan2025 23:26:01.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[03Jan2025 23:26:01.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[03Jan2025 23:26:01.793] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[03Jan2025 23:26:01.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[03Jan2025 23:26:01.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
+[03Jan2025 23:28:59.856] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Jan2025 23:28:59.858] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Jan2025 23:30:01.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Magic Impregnation]
+[03Jan2025 23:30:52.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Kicked by an operator
+[03Jan2025 23:30:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[03Jan2025 23:30:52.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Kicked Namikaze: Kicked by an operator]
+[03Jan2025 23:30:52.279] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 23:31:08.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:41887] logged in with entity id 10097 at (-317.35556913882294, 162.0, 455.584028441297)
+[03Jan2025 23:31:08.400] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[03Jan2025 23:31:08.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[03Jan2025 23:31:08.401] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[03Jan2025 23:31:08.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[03Jan2025 23:31:08.404] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[03Jan2025 23:31:08.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[03Jan2025 23:31:08.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[03Jan2025 23:31:08.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game

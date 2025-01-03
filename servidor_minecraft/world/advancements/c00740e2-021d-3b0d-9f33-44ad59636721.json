@@ -9470,33 +9470,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_chestplate": {
-    "criteria": {
-      "has_coal": "2025-01-03 23:15:12 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/kukri_dagger": {
     "criteria": {
       "has_dark_oak_log": "2025-01-03 22:56:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_leggings": {
-    "criteria": {
-      "has_coal": "2025-01-03 23:15:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shinobi_chestplate": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shinobi_helmet": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
     },
     "done": true
   },
@@ -9506,33 +9482,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/uchigatana": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
-    },
-    "done": true
-  },
-  "skyarena:root": {
-    "criteria": {
-      "always": "2025-01-03 22:56:48 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/zombie_helmet2": {
     "criteria": {
       "has_rotten_flesh": "2025-01-03 22:56:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shinobi_boots": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/veteran_boots": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
     },
     "done": true
   },
@@ -9554,12 +9506,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/veteran_helmet": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/zombie_leggings": {
     "criteria": {
       "has_rotten_flesh": "2025-01-03 22:56:47 +0000"
@@ -9578,33 +9524,9 @@
     },
     "done": true
   },
-  "terramity:terramity_parent_advancement": {
-    "criteria": {
-      "terramity_parent_advancement_0": "2025-01-03 22:56:48 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_boots": {
-    "criteria": {
-      "has_coal": "2025-01-03 23:15:12 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/uchigatana_katana": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone_block": "2025-01-03 22:56:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/veteran_leggings": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
     },
     "done": true
   },
@@ -9623,18 +9545,6 @@
   "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
       "has_dark_oak_log": "2025-01-03 22:56:47 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/shinobi_leggings": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/veteran_chestplate": {
-    "criteria": {
-      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
     },
     "done": true
   },
@@ -9662,15 +9572,135 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/spider_chestplate": {
+    "criteria": {
+      "has_bone_meal": "2025-01-03 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "skyarena:root": {
+    "criteria": {
+      "always": "2025-01-03 22:56:48 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-01-03 22:56:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_coal": "2025-01-03 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_coal": "2025-01-03 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_coal": "2025-01-03 23:15:12 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_helmet": {
     "criteria": {
       "has_coal": "2025-01-03 23:15:12 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/spider_chestplate": {
+  "knightquest:recipes/misc/shinobi_chestplate": {
     "criteria": {
-      "has_bone_meal": "2025-01-03 22:56:47 +0000"
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 23:15:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_helmet": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_leggings": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet2": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:29:19 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_boots": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:29:19 +0000"
     },
     "done": true
   },
