@@ -9791,24 +9791,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/horn_boots": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-01-03 23:21:36 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bow_chestplate": {
     "criteria": {
       "has_water_bucket": "2025-01-03 23:06:30 +0000"
@@ -9818,12 +9800,6 @@
   "knightquest:recipes/misc/bamboo_chestplate": {
     "criteria": {
       "has_coal": "2025-01-03 23:06:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
     },
     "done": true
   },
@@ -9863,69 +9839,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_helmet": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-01-03 23:21:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/horn_chestplate": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/uchigatana": {
-    "criteria": {
-      "has_diamond": "2025-01-03 23:15:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
   "skyarena:root": {
     "criteria": {
       "always": "2025-01-03 23:06:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/conquistador_boots": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_green_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
     },
     "done": true
   },
@@ -9941,99 +9857,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_helmet2": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/path_boots": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
       "has_bone": "2025-01-03 23:06:30 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-01-03 23:19:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
   "knightquest:recipes/misc/skeleton_boots": {
     "criteria": {
       "has_bone": "2025-01-03 23:06:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-01-03 23:19:57 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-01-03 23:19:45 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_leggings": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_chestplate": {
-    "criteria": {
-      "has_feather": "2025-01-03 23:21:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador_helmet": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/steel_axe": {
-    "criteria": {
-      "has_feather": "2025-01-03 23:21:37 +0000"
     },
     "done": true
   },
@@ -10049,35 +9881,11 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/husk_helmet": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_leggings": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_magic_impregnation": {
-    "criteria": {
-      "coded_trigger": "2025-01-03 23:30:01 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/pirate_helmet": {
     "criteria": {
       "has_bone": "2025-01-03 23:06:30 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
   },
   "knightquest:recipes/misc/kukri": {
     "criteria": {
@@ -10085,27 +9893,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/husk_leggings": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_helmet": {
-    "criteria": {
-      "has_feather": "2025-01-03 23:21:37 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/skeleton_helmet": {
     "criteria": {
       "has_bone": "2025-01-03 23:06:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_helmet": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
     },
     "done": true
   },
@@ -10133,39 +9923,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/uchigatana_katana": {
-    "criteria": {
-      "has_diamond": "2025-01-03 23:15:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/horn_helmet": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_sea_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_chestplate": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2025-01-03 23:06:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador3_helmet": {
-    "criteria": {
-      "has_diamond": "2025-01-03 23:15:30 +0000"
     },
     "done": true
   },
@@ -10175,117 +9935,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/zombie_boots": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_blue_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/steel_sword": {
-    "criteria": {
-      "has_feather": "2025-01-03 23:21:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_red_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/creeper_leggings": {
     "criteria": {
       "has_gunpowder": "2025-01-03 23:06:30 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/evoker_boots": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-01-03 23:21:36 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador_chestplate": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/pirate_leggings": {
     "criteria": {
       "has_bone": "2025-01-03 23:06:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_boots": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador2_helmet": {
-    "criteria": {
-      "has_iron_nugget": "2025-01-03 23:12:38 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/tunic_yellow_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-03 23:30:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-03 23:30:49 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/evoker_chestplate": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_helmet": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-01-03 23:25:54 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/zombie_chestplate": {
-    "criteria": {
-      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_leggings": {
-    "criteria": {
-      "has_feather": "2025-01-03 23:21:37 +0000"
     },
     "done": true
   },
@@ -10301,6 +9959,192 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-03 23:12:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2025-01-03 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2025-01-03 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-03 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-03 23:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-03 23:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-03 23:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 23:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 23:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 23:21:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-01-03 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_feather": "2025-01-03 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2025-01-03 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_feather": "2025-01-03 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-01-03 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2025-01-03 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-03 23:23:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-03 23:25:04 +0000"
@@ -10313,9 +10157,123 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/silver_boots": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_feather": "2025-01-03 23:21:37 +0000"
+      "has_ice": "2025-01-03 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_boots": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_boots": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-03 23:30:18 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-01-03 23:36:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
     },
     "done": true
   },

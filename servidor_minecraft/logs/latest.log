@@ -6001,3 +6001,30 @@ java.lang.NullPointerException: Cannot invoke "java.util.function.Function.apply
 [03Jan2025 23:31:08.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
 [03Jan2025 23:31:08.406] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
 [03Jan2025 23:31:08.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[03Jan2025 23:33:35.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Kicked Namikaze: Kicked by an operator]
+[03Jan2025 23:33:35.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Kicked by an operator
+[03Jan2025 23:33:35.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[03Jan2025 23:33:52.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:42969] logged in with entity id 10519 at (-335.54065185672493, 123.0, 385.58984345989467)
+[03Jan2025 23:33:52.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[03Jan2025 23:33:52.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[03Jan2025 23:33:52.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[03Jan2025 23:33:52.193] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[03Jan2025 23:33:52.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[03Jan2025 23:33:52.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[03Jan2025 23:33:52.199] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[03Jan2025 23:33:52.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[03Jan2025 23:34:11.652] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[03Jan2025 23:34:11.653] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[03Jan2025 23:34:54.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[03Jan2025 23:36:59.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Knight Quest]
+[03Jan2025 23:37:19.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[03Jan2025 23:37:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[03Jan2025 23:41:32.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkgospel[/127.58.16.227:49413] logged in with entity id 11730 at (-332.98267488748, 123.0, 385.4792773184485)
+[03Jan2025 23:41:32.698] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Darkgospel
+[03Jan2025 23:41:32.699] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Darkgospel
+[03Jan2025 23:41:32.699] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Darkgospel
+[03Jan2025 23:41:32.700] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Darkgospel
+[03Jan2025 23:41:32.706] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Darkgospel
+[03Jan2025 23:41:32.714] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Darkgospel
+[03Jan2025 23:41:32.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Darkgospel
+[03Jan2025 23:41:32.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel joined the game
