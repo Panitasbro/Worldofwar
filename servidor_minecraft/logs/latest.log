@@ -132,3 +132,18 @@
 [04Jan2025 01:02:29.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
 [04Jan2025 01:02:46.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
 [04Jan2025 01:02:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[04Jan2025 01:15:27.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33411, l='ServerLevel[world]', x=-894.00, y=92.00, z=-8.50] died, message: 'Villager died'
+[04Jan2025 01:17:08.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [Surge Protector]
+[04Jan2025 01:17:51.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was corrupted by Werecat.
+[04Jan2025 01:17:51.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze died
+[04Jan2025 01:17:51.687] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[04Jan2025 01:21:15.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3481ms or 69 ticks behind
+[04Jan2025 01:21:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has made the advancement [My Name is Nobody]
+[04Jan2025 01:22:03.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:22:05.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Fire Dragon
+[04Jan2025 01:22:05.189] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[04Jan2025 01:26:14.776] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Jan2025 01:26:14.781] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[04Jan2025 01:35:45.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[04Jan2025 01:40:46.699] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Jan2025 01:40:46.700] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
