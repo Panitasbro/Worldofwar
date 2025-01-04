@@ -158,3 +158,40 @@
 [04Jan2025 01:54:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was shot by Sir Pumpkinhead
 [04Jan2025 01:54:39.970] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
 [04Jan2025 01:55:30.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze has reached the goal [Pumpkin Sir]
+[04Jan2025 01:57:37.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[04Jan2025 01:57:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[04Jan2025 01:57:48.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:57299] logged in with entity id 43587 at (-304.2882134970524, 161.9375, 446.89271787046016)
+[04Jan2025 01:57:48.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[04Jan2025 01:57:48.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[04Jan2025 01:57:48.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[04Jan2025 01:57:48.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[04Jan2025 01:57:48.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[04Jan2025 01:57:48.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[04Jan2025 01:57:48.870] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[04Jan2025 01:57:48.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[04Jan2025 01:57:53.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[04Jan2025 01:58:43.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[04Jan2025 01:58:43.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[04Jan2025 01:58:53.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:38049] logged in with entity id 43789 at (-304.2882134970524, 161.9375, 446.89271787046016)
+[04Jan2025 01:58:53.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[04Jan2025 01:58:53.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[04Jan2025 01:58:53.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[04Jan2025 01:58:53.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[04Jan2025 01:58:53.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[04Jan2025 01:58:53.854] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[04Jan2025 01:58:53.854] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[04Jan2025 01:58:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[04Jan2025 02:00:50.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze lost connection: Disconnected
+[04Jan2025 02:00:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze left the game
+[04Jan2025 02:02:57.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Namikaze[/127.181.45.238:44523] logged in with entity id 44193 at (-307.2591380271259, 162.0, 452.76249998807907)
+[04Jan2025 02:02:57.430] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Namikaze
+[04Jan2025 02:02:57.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Namikaze
+[04Jan2025 02:02:57.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Namikaze
+[04Jan2025 02:02:57.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Namikaze
+[04Jan2025 02:02:57.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Namikaze
+[04Jan2025 02:02:57.448] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Namikaze
+[04Jan2025 02:02:57.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Namikaze
+[04Jan2025 02:02:57.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze joined the game
+[04Jan2025 02:04:41.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 02:06:05.697] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Jan2025 02:06:05.699] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]

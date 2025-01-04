@@ -10248,39 +10248,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silverfish_boots": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_chestplate": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_leggings": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silverfish_helmet": {
+    "criteria": {
+      "has_stone": "2025-01-03 23:35:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-01-03 23:36:59 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_blue_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 23:41:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/chainmail_helmet": {
-    "criteria": {
-      "has_melon_slice": "2025-01-04 00:14:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/deepslate_helmet": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
     },
     "done": true
   },
@@ -10290,39 +10290,105 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/forze_helmet": {
-    "criteria": {
-      "has_spider_eye": "2025-01-04 00:04:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-01-04 00:14:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_helmet": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-04 00:13:21 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bamboo_blue_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_diamond_axe": "2025-01-03 23:44:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_diamond_axe": "2025-01-03 23:44:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_helmet": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_leggings": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet2": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_chestplate": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_green_boots": {
+    "criteria": {
+      "has_emerald": "2025-01-03 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_leggings": {
+    "criteria": {
+      "has_piston": "2025-01-03 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_helmet": {
+    "criteria": {
+      "has_piston": "2025-01-03 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_boots": {
+    "criteria": {
+      "has_piston": "2025-01-03 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/spider_chestplate": {
+    "criteria": {
+      "has_piston": "2025-01-03 23:55:29 +0000"
     },
     "done": true
   },
@@ -10338,15 +10404,39 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+  "knightquest:recipes/misc/shield_helmet": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
+      "has_copper_ingot": "2025-01-03 23:55:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
+  "knightquest:recipes/misc/shield_boots": {
     "criteria": {
-      "has_redstone_block": "2025-01-04 00:26:34 +0000"
+      "has_copper_ingot": "2025-01-03 23:55:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
     },
     "done": true
   },
@@ -10356,27 +10446,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "knightquest:recipes/misc/apple_boots": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-01-04 01:17:08 +0000"
+      "has_golden_apple": "2025-01-04 00:11:19 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/shield_helmet": {
+  "knightquest:recipes/misc/apple_helmet": {
     "criteria": {
-      "has_copper_ingot": "2025-01-03 23:55:34 +0000"
+      "has_golden_apple": "2025-01-04 00:11:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
+  "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
-      "has_melon": "2025-01-04 00:14:50 +0000"
+      "has_golden_apple": "2025-01-04 00:11:19 +0000"
     },
     "done": true
   },
-  "knightquest:knightquest": {
+  "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
-      "requirement": "2025-01-03 23:36:59 +0000"
+      "has_ender_pearl": "2025-01-04 00:13:21 +0000"
     },
     "done": true
   },
@@ -10386,33 +10476,111 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_green_helmet": {
+  "knightquest:recipes/misc/enderman_chestplate": {
     "criteria": {
-      "has_emerald": "2025-01-03 23:47:45 +0000"
+      "has_ender_pearl": "2025-01-04 00:13:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_leggings": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-04 00:13:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-04 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-04 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-04 00:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-04 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_helmet": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_boots": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_chestplate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_leggings": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_boots": {
-    "criteria": {
-      "has_golden_apple": "2025-01-04 00:11:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-01-04 00:28:40 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_chestplate": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-04 00:13:21 +0000"
     },
     "done": true
   },
@@ -10434,51 +10602,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/spider_leggings": {
-    "criteria": {
-      "has_piston": "2025-01-03 23:55:29 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_boots": {
-    "criteria": {
-      "has_spider_eye": "2025-01-04 00:04:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_green_leggings": {
-    "criteria": {
-      "has_emerald": "2025-01-03 23:47:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/cleaver_heavy_axe": {
-    "criteria": {
-      "has_diamond_axe": "2025-01-03 23:44:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_blue_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/warlord_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
     },
     "done": true
   },
@@ -10494,12 +10626,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/silverfish_boots": {
-    "criteria": {
-      "has_stone": "2025-01-03 23:35:10 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bat_chestplate": {
     "criteria": {
       "has_dripstone_block": "2025-01-04 00:28:37 +0000"
@@ -10512,87 +10638,15 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/warlord_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_helmet2": {
-    "criteria": {
-      "has_emerald": "2025-01-03 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_helmet": {
-    "criteria": {
-      "has_piston": "2025-01-03 23:55:29 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/bamboo_green_chestplate": {
-    "criteria": {
-      "has_emerald": "2025-01-03 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/warlord_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/deepslate_boots": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-01-04 00:14:50 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/bat_leggings": {
     "criteria": {
       "has_dripstone_block": "2025-01-04 00:28:37 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_helmet": {
-    "criteria": {
-      "has_golden_apple": "2025-01-04 00:11:19 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_leggings": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-04 00:13:21 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_boots": {
-    "criteria": {
-      "has_piston": "2025-01-03 23:55:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-04 01:21:26 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/deepslate_chestplate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
     },
     "done": true
   },
@@ -10614,72 +10668,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/silverfish_chestplate": {
-    "criteria": {
-      "has_stone": "2025-01-03 23:35:10 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/warlord_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-03 23:41:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_chestplate": {
-    "criteria": {
-      "has_spider_eye": "2025-01-04 00:04:16 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silverfish_leggings": {
-    "criteria": {
-      "has_stone": "2025-01-03 23:35:10 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/flesh_lich": {
-    "criteria": {
-      "kill": "2025-01-04 00:42:00 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/apple_chestplate": {
-    "criteria": {
-      "has_golden_apple": "2025-01-04 00:11:19 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bamboo_green_boots": {
-    "criteria": {
-      "has_emerald": "2025-01-03 23:47:45 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silverfish_helmet": {
-    "criteria": {
-      "has_stone": "2025-01-03 23:35:10 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/cleaver": {
-    "criteria": {
-      "has_diamond_axe": "2025-01-03 23:44:28 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/spider_chestplate": {
-    "criteria": {
-      "has_piston": "2025-01-03 23:55:29 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/forze_leggings": {
-    "criteria": {
-      "has_spider_eye": "2025-01-04 00:04:16 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-04 00:28:37 +0000"
@@ -10692,17 +10680,59 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/shield_boots": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_copper_ingot": "2025-01-03 23:55:34 +0000"
+      "has_pointed_dripstone": "2025-01-04 00:28:40 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/deepslate_leggings": {
+  "grimoireofgaia:main/flesh_lich": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-01-04 00:26:55 +0000"
+      "kill": "2025-01-04 00:42:00 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-01-04 01:17:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 01:21:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-01-04 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-01-04 01:55:31 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-01-04 01:55:31 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-01-04 01:55:45 +0000",
+      "trickor_treat_2": "2025-01-04 01:55:45 +0000",
+      "trickor_treat_3": "2025-01-04 01:55:45 +0000",
+      "trickor_treat_4": "2025-01-04 01:55:45 +0000",
+      "trickor_treat_5": "2025-01-04 01:55:46 +0000",
+      "trickor_treat_6": "2025-01-04 01:55:45 +0000",
+      "trickor_treat_7": "2025-01-04 01:55:45 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
