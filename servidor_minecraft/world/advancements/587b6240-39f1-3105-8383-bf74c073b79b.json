@@ -10625,6 +10625,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2025-01-04 00:42:00 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/apple_chestplate": {
     "criteria": {
       "has_golden_apple": "2025-01-04 00:11:19 +0000"

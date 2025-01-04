@@ -76,3 +76,59 @@
 [04Jan2025 00:41:54.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
 [04Jan2025 00:43:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
 [04Jan2025 00:43:32.192] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[04Jan2025 00:44:31.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 00:48:01.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.22.222.167:33081] logged in with entity id 28814 at (5.164617246703039, 84.0625, 315.4466313450299)
+[04Jan2025 00:48:01.930] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[04Jan2025 00:48:01.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[04Jan2025 00:48:01.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[04Jan2025 00:48:01.932] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[04Jan2025 00:48:01.936] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[04Jan2025 00:48:01.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[04Jan2025 00:48:01.940] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[04Jan2025 00:48:02.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[04Jan2025 00:49:07.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Showing new title for DAIRA_3]
+[04Jan2025 00:50:11.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[04Jan2025 00:50:11.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[04Jan2025 00:52:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkgospel> ??????
+[04Jan2025 00:52:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Namikaze> para el piso
+[04Jan2025 00:52:44.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkgospel> algun patron o algo?
+[04Jan2025 00:52:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Namikaze> nose
+[04Jan2025 00:52:54.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Namikaze> ya reviso
+[04Jan2025 00:54:37.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.22.222.167:39981] logged in with entity id 29999 at (-3.0183541075225584, 84.0, 318.085816442243)
+[04Jan2025 00:54:37.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[04Jan2025 00:54:37.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[04Jan2025 00:54:37.637] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[04Jan2025 00:54:37.638] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[04Jan2025 00:54:37.640] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[04Jan2025 00:54:37.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[04Jan2025 00:54:37.642] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[04Jan2025 00:54:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[04Jan2025 00:55:13.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[04Jan2025 00:55:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[04Jan2025 00:56:43.799] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Jan2025 00:56:43.800] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[04Jan2025 00:58:57.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkgospel> ya vuelvo
+[04Jan2025 00:58:59.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel lost connection: Disconnected
+[04Jan2025 00:58:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel left the game
+[04Jan2025 01:00:12.247] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Jan2025 01:00:12.248] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[04Jan2025 01:01:52.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:01:53.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:01:54.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:01:54.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:02:09.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.22.222.167:39773] logged in with entity id 31056 at (-3.0183541075225584, 84.0, 318.085816442243)
+[04Jan2025 01:02:09.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[04Jan2025 01:02:09.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[04Jan2025 01:02:09.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[04Jan2025 01:02:09.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[04Jan2025 01:02:09.737] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[04Jan2025 01:02:09.740] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[04Jan2025 01:02:09.740] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[04Jan2025 01:02:09.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[04Jan2025 01:02:14.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:02:17.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:02:17.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:02:29.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:02:29.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 01:02:46.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[04Jan2025 01:02:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
