@@ -10259,6 +10259,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/forze_helmet": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_blue_boots": {
     "criteria": {
       "has_gold_ingot": "2025-01-03 23:41:39 +0000"
@@ -10298,6 +10304,12 @@
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_piston": "2025-01-03 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_boots": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
     },
     "done": true
   },
@@ -10379,6 +10391,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/forze_chestplate": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silverfish_leggings": {
     "criteria": {
       "has_stone": "2025-01-03 23:35:10 +0000"
@@ -10406,6 +10424,12 @@
   "knightquest:recipes/misc/spider_chestplate": {
     "criteria": {
       "has_piston": "2025-01-03 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/forze_leggings": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 00:04:16 +0000"
     },
     "done": true
   },

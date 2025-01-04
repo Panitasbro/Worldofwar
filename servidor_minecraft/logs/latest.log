@@ -1,2 +1,25 @@
 [04Jan2025 00:01:56.117] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c857385[id=<null>,name=DAIRA_3,properties={},legacy=false] (/127.22.222.167:46289) lost connection: Disconnected
 [04Jan2025 00:02:10.666] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fb53bd9[id=<null>,name=DAIRA_3,properties={},legacy=false] (/127.22.222.167:52419) lost connection: Disconnected
+[04Jan2025 00:03:37.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Jan2025 00:03:59.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-452, y=-35, z=224} BlockPos{x=-453, y=-35, z=225}
+[04Jan2025 00:04:09.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-462, y=-37, z=220} BlockPos{x=-462, y=-38, z=219}
+[04Jan2025 00:04:33.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-456, y=-32, z=225} BlockPos{x=-457, y=-33, z=225}
+[04Jan2025 00:05:20.721] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16797, l='ServerLevel[world]', x=-574.20, y=89.00, z=369.25] died, message: 'Villager was slain by Door Knight'
+[04Jan2025 00:06:03.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 00:06:40.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=-33, z=229} BlockPos{x=-437, y=-34, z=230}
+[04Jan2025 00:06:40.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-436, y=-34, z=225} BlockPos{x=-436, y=-35, z=223}
+[04Jan2025 00:06:40.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-436, y=-34, z=225} BlockPos{x=-436, y=-35, z=223}
+[04Jan2025 00:06:40.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-436, y=-34, z=225} BlockPos{x=-436, y=-35, z=223}
+[04Jan2025 00:06:41.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-436, y=-34, z=225} BlockPos{x=-436, y=-35, z=223}
+[04Jan2025 00:06:41.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-436, y=-34, z=225} BlockPos{x=-436, y=-35, z=223}
+[04Jan2025 00:06:49.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-433, y=-32, z=221} BlockPos{x=-433, y=-33, z=221}
+[04Jan2025 00:08:11.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkgospel has made the advancement [Knight Quest]
+[04Jan2025 00:08:16.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75cc782c[id=<null>,name=DAIRA_3,properties={},legacy=false] (/127.22.222.167:48727) lost connection: Disconnected
+[04Jan2025 00:08:41.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-457, y=-39, z=218} BlockPos{x=-457, y=-37, z=220}
+[04Jan2025 00:08:47.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=-38, z=219} BlockPos{x=-447, y=-38, z=221}
+[04Jan2025 00:08:47.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=-38, z=219} BlockPos{x=-447, y=-38, z=221}
+[04Jan2025 00:08:48.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=-38, z=221} BlockPos{x=-447, y=-38, z=221}
+[04Jan2025 00:08:48.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-446, y=-38, z=221} BlockPos{x=-447, y=-38, z=221}
+[04Jan2025 00:08:49.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=-38, z=219} BlockPos{x=-449, y=-39, z=220}
+[04Jan2025 00:08:49.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=-38, z=219} BlockPos{x=-449, y=-39, z=220}
+[04Jan2025 00:08:49.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=-38, z=219} BlockPos{x=-449, y=-39, z=220}

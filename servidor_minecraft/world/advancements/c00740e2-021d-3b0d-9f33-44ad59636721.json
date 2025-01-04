@@ -9734,9 +9734,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_arrow": "2025-01-04 00:08:09 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/wither_leggings": {
     "criteria": {
       "has_bone": "2025-01-03 23:53:32 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_arrow": "2025-01-04 00:08:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 00:05:13 +0000"
     },
     "done": true
   },
@@ -9752,15 +9770,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-04 00:05:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_apple": "2025-01-04 00:05:15 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_wheat_seeds": "2025-01-04 00:03:39 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
       "has_ender_pearl": "2025-01-03 23:56:31 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_arrow": "2025-01-04 00:08:09 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
       "has_bone": "2025-01-03 23:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-04 00:05:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-01-04 00:08:11 +0000"
     },
     "done": true
   },
@@ -9812,9 +9866,51 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_arrow": "2025-01-04 00:08:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_apple": "2025-01-04 00:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2025-01-03 23:54:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-04 00:02:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_apple": "2025-01-04 00:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-04 00:05:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_apple": "2025-01-04 00:05:15 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/bone_knight": {
+    "criteria": {
+      "kill": "2025-01-04 00:06:08 +0000"
     },
     "done": true
   },
@@ -9827,6 +9923,18 @@
   "knightquest:recipes/misc/enderman_leggings": {
     "criteria": {
       "has_ender_pearl": "2025-01-03 23:56:31 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-04 00:05:17 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_apple": "2025-01-04 00:05:15 +0000"
     },
     "done": true
   },
