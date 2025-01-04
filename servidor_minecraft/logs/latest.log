@@ -23,3 +23,40 @@
 [04Jan2025 00:08:49.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=-38, z=219} BlockPos{x=-449, y=-39, z=220}
 [04Jan2025 00:08:49.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=-38, z=219} BlockPos{x=-449, y=-39, z=220}
 [04Jan2025 00:08:49.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-449, y=-38, z=219} BlockPos{x=-449, y=-39, z=220}
+[04Jan2025 00:13:51.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[04Jan2025 00:18:37.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[04Jan2025 00:21:08.314] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@682e3083[id=<null>,name=DAIRA_3,properties={},legacy=false] (/127.22.222.167:47345) lost connection: Disconnected
+[04Jan2025 00:21:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Showing new title for Namikaze]
+[04Jan2025 00:21:46.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Showing new title for Namikaze]
+[04Jan2025 00:22:31.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Showing new title for 2 players]
+[04Jan2025 00:22:55.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Showing new actionbar title for 2 players]
+[04Jan2025 00:23:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Reset title options for 2 players]
+[04Jan2025 00:23:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Darkgospel: Showing new title for Namikaze]
+[04Jan2025 00:24:24.702] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[04Jan2025 00:24:24.703] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[04Jan2025 00:25:19.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.22.222.167:60045] logged in with entity id 22561 at (5.164617246703039, 84.0625, 315.4466313450299)
+[04Jan2025 00:25:19.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[04Jan2025 00:25:19.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[04Jan2025 00:25:19.939] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[04Jan2025 00:25:19.941] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[04Jan2025 00:25:19.943] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[04Jan2025 00:25:19.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[04Jan2025 00:25:19.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[04Jan2025 00:25:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[04Jan2025 00:25:20.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 has made the advancement [Terramity]
+[04Jan2025 00:25:53.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[04Jan2025 00:25:53.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[04Jan2025 00:29:19.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze withered away
+[04Jan2025 00:29:19.929] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
+[04Jan2025 00:31:49.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-290, y=-20, z=255} BlockPos{x=-290, y=-19, z=255}
+[04Jan2025 00:33:27.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.22.222.167:46871] logged in with entity id 24846 at (5.164617246703039, 84.0625, 315.4466313450299)
+[04Jan2025 00:33:27.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[04Jan2025 00:33:27.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[04Jan2025 00:33:27.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[04Jan2025 00:33:27.765] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[04Jan2025 00:33:27.766] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[04Jan2025 00:33:27.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[04Jan2025 00:33:27.770] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[04Jan2025 00:33:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[04Jan2025 00:34:04.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[04Jan2025 00:34:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
