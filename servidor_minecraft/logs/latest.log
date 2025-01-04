@@ -60,3 +60,19 @@
 [04Jan2025 00:33:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
 [04Jan2025 00:34:04.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
 [04Jan2025 00:34:04.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[04Jan2025 00:37:20.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[04Jan2025 00:38:09.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkgospel moved wrongly!
+[04Jan2025 00:39:00.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Namikaze moved wrongly!
+[04Jan2025 00:41:19.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DAIRA_3[/127.22.222.167:48093] logged in with entity id 26763 at (5.164617246703039, 84.0625, 315.4466313450299)
+[04Jan2025 00:41:19.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DAIRA_3
+[04Jan2025 00:41:19.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DAIRA_3
+[04Jan2025 00:41:19.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DAIRA_3
+[04Jan2025 00:41:19.313] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DAIRA_3
+[04Jan2025 00:41:19.316] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DAIRA_3
+[04Jan2025 00:41:19.322] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DAIRA_3
+[04Jan2025 00:41:19.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DAIRA_3
+[04Jan2025 00:41:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 joined the game
+[04Jan2025 00:41:54.981] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DAIRA_3 lost connection: Disconnected
+[04Jan2025 00:41:54.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DAIRA_3 left the game
+[04Jan2025 00:43:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Namikaze was slain by Nightmare Stalker
+[04Jan2025 00:43:32.192] [Server thread/INFO] [tombstone/]: The player Namikaze has successfully been saved
